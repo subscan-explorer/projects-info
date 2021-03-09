@@ -1,33 +1,33 @@
-import acala_icon from "assets/images/acala-rococo.svg"
-import ares_icon from "assets/images/ares-rococo.svg"
-import bifrost_icon from "assets/images/bifrost-rococo.svg"
-import bitcountry_icon from "assets/images/bitcountry-rococo.svg"
-import clover_icon from "assets/images/clover-rococo.svg"
-import crust_icon from "assets/images/crust-rococo.svg"
-import crust_type from "assets/registry/crust-parachain";
-import darwinia_icon from "assets/images/darwinia-rococo.png"
-import darwinia_type from "assets/registry/darwinia-parachain";
-import datahighway_icon from "assets/images/datahighway-rococo.png"
-import encointer_notee_icon from "assets/images/encointer-notee-rococo.svg"
-import hydrate_icon from "assets/images/hydrate-rococo.png"
-import hydrate_type from "assets/registry/hydrate-parachain";
-import integritee_icon from "assets/images/integritee-rococo.svg"
-import jupiter_icon from "assets/images/jupiter-rococo.svg"
-import kilt_icon from "assets/images/kilt-rococo.svg"
-import kilt_type from "assets/registry/kilt-parachain";
-import litentry_icon from "assets/images/litentry-rococo.png"
-import math_icon from "assets/images/math-rococo.svg"
-import polkabtc_icon from "assets/images/polkabtc-rococo.png"
-import polkabtc_type from "assets/registry/polkabtc-parachain";
-import phala_icon from "assets/images/phala-rococo.svg"
-import phala_type from "assets/registry/phala-parachain";
-import plasm_icon from "assets/images/plasm-rococo.png"
-import plasm_type from "assets/registry/plasm-parachain";
-import subdao_icon from "assets/images/subdao-rococo.png"
-import tick_icon from "assets/images/tick-rococo.svg"
-import track_icon from "assets/images/track-rococo.svg"
-import trick_icon from "assets/images/trick-rococo.svg"
-import zenlink_icon from "assets/images/zenlink-rococo.svg"
+import acala_icon from "./assets/images/acala-rococo.svg"
+import ares_icon from "./assets/images/ares-rococo.svg"
+import bifrost_icon from "./assets/images/bitcountry-rococo.svg"
+import bitcountry_icon from "./assets/images/bitcountry-rococo.svg"
+import clover_icon from "./assets/images/clover-rococo.svg"
+import crust_icon from "./assets/images/crust-rococo.svg"
+import crust_type from "./assets/registry/crust-parachain.js";
+import darwinia_icon from "./assets/images/darwinia-rococo.png"
+import darwinia_type from "./assets/registry/darwinia-parachain.js";
+import datahighway_icon from "./assets/images/datahighway-rococo.png"
+import encointer_notee_icon from "./assets/images/encointer-notee-rococo.svg"
+import hydrate_icon from "./assets/images/hydrate-rococo.png"
+import hydrate_type from "./assets/registry/hydrate-parachain.js";
+import integritee_icon from "./assets/images/integritee-rococo.svg"
+import jupiter_icon from "./assets/images/jupiter-rococo.svg"
+import kilt_icon from "./assets/images/kilt-rococo.svg"
+import kilt_type from "./assets/registry/kilt-parachain.js";
+import litentry_icon from "./assets/images/litentry-rococo.png"
+import math_icon from "./assets/images/math-rococo.svg"
+import polkabtc_icon from "./assets/images/polkabtc-rococo.png"
+import polkabtc_type from "./assets/registry/polkabtc-parachain.js";
+import phala_icon from "./assets/images/phala-rococo.svg"
+import phala_type from "./assets/registry/phala-parachain.js";
+import plasm_icon from "./assets/images/plasm-rococo.png"
+import plasm_type from "./assets/registry/plasm-parachain.js";
+import subdao_icon from "./assets/images/subdao-rococo.png"
+import tick_icon from "./assets/images/tick-rococo.svg"
+import track_icon from "./assets/images/track-rococo.svg"
+import trick_icon from "./assets/images/trick-rococo.svg"
+import zenlink_icon from "./assets/images/zenlink-rococo.svg"
 
 //https://github.com/polkadot-js/apps/blob/b8f22763ab0fe2fd4b0663d3d4988a9763dcd9ce/packages/apps-config/src/endpoints/testingRococo.ts
 
@@ -131,7 +131,7 @@ export default {
       logo: bitcountry_icon,
       registry: {},
       providers: {
-        BitCountry: 'wss://tewai-parachain.bit.country:9955'
+        BitCountry: 'wss://tewai-parachain.js.bit.country:9955'
       }
     },
     {
@@ -292,7 +292,7 @@ export default {
       text: 'IntegriTEE PC1',
       project: "IntegriTEE",
       tag: "Developer",
-      link: "https://github.com/scs/integritee-parachain",
+      link: "https://github.com/scs/integritee-parachain.js",
       batch: "Waiting",
       logo: integritee_icon,
       registry: {},
@@ -531,7 +531,7 @@ export default {
       logo: zenlink_icon,
       registry: {},
       providers: {
-        Zenlink: 'wss://rococo-parachain.zenlink.pro'
+        Zenlink: 'wss://rococo-parachain.js.zenlink.pro'
       }
     }
   ]

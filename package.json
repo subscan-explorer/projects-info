@@ -1,0 +1,24 @@
+{
+  "name": "@subscan/parachains-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itering/parachain-projects-info.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/itering/parachain-projects-info/issues"
+  },
+  "homepage": "https://github.com/itering/parachain-projects-info#readme",
+  "devDependencies": {
+    "parcel-bundler": "1.12.3"
+  }
+}
