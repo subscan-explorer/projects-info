@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/itering/parachain-projects-info#readme",
   "devDependencies": {
-    "parcel-bundler": "1.12.3"
+    "@parcel/transformer-image": "2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2"
   }
 }
