@@ -21,6 +21,7 @@ import tick_icon from "url:../assets/images/tick.svg"
 import track_icon from "url:../assets/images/track.svg"
 import trick_icon from "url:../assets/images/trick.svg"
 import zenlink_icon from "url:../assets/images/zenlink.svg"
+import subgame from "url:../assets/images/subgame.png"
 
 //https://github.com/polkadot-js/apps/blob/b8f22763ab0fe2fd4b0663d3d4988a9763dcd9ce/packages/apps-config/src/endpoints/testingRococo.ts
 
@@ -307,6 +308,14 @@ export default {
       project: 'Zenlink',
       websiteLink: "https://www.zenlink.pro/",
       logo: zenlink_icon,
+    },
+    {
+      info: 'SubGame',
+      paraId: 2004,
+      text: 'SubGame',
+      project: 'SubGame',
+      websiteLink: "https://www.subgame.org/",
+      logo: subgame,
     }
   ]
 }
