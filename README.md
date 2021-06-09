@@ -23,13 +23,21 @@ Welcome to pr to update your `project information`.
 
 ParaID: '0',
 
-Description: 'text',
+Description (en): 'text',
 
-Parachain Crowdloans Allocation: 'text or link',
+Description (zh): 'text',
 
-Auction Reward & Reward Vesting Schedule: 'text or link',
+Parachain Crowdloans Allocation (en): 'text or link',
 
-Financing Information: 'text or link',
+Parachain Crowdloans Allocation (zh): 'text or link',
+
+Auction Reward & Reward Vesting Schedule (en): 'text or link',
+
+Auction Reward & Reward Vesting Schedule (zh): 'text or link',
+
+Financing Information (en): 'text or link',
+
+Financing Information (zh): 'text or link',
 
 Website Link: 'link',
 
