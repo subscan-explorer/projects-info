@@ -4,7 +4,7 @@ export default {
   parachains: [
     {
       "Para ID": 2006,
-      "Text": "Crab",
+      "Project Name": "Crab",
       "Logo": crab_icon,
       "Description (en)": "Crab is a canary network with real economics for Darwinia",
       "Description (zh)": "Crab 网络是 Darwinia 网络的一个有经济价值的金丝雀网络",
