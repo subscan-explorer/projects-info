@@ -23,6 +23,8 @@ Welcome to pr to update your `project information`.
 
 ParaID: '0',
 
+Project Name: 'text',
+
 Description (en): 'text',
 
 Description (zh): 'text',
