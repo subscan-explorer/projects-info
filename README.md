@@ -12,7 +12,7 @@ This repo contains info of parachain projects used in [Subscan parachain module]
 
 - After each update of the `project information`, please sign the latest data and submit the signature.
 
-- Signature tool: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/signing
+- Signature tool: [For Kusama](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/signing) , [For Rococo](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/signing) , [For Westend](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fwestend-rpc.polkadot.io#/signing).
 
 
 Welcome to pr to update your `project information`.
