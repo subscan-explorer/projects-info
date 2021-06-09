@@ -3,11 +3,30 @@ import sakura_icon from "url:../assets/images/sakura.svg";
 export default {
   parachains: [
     {
-      info: "sakuraClover",
-      paraId: 2016,
-      text: "Sakura",
-      project: "Sakura",
-      websiteLink: "https://clover.finance/sakura",
+      ParaID: "2016",
+      "Description (en)":
+        "Sakura is the sister network of Clover，and it is a substrate-based parachain candidate specifically built for the cross-chain DeFi ecosystem on Kusama." +
+        "Sakura will utilize all of the core underlying technology stack that Clover has created and is continuously innovating. Developers can migrate their Solidity smart contracts to Sakura seamlessly, while embracing the benefits of Sakura's unique feeconomics。" +
+        "The Clover extension wallet will natively support Sakura dApps on EVM, polkadot.js based injections, and a native-built SKU<->ETH and SKU<->BSC bridge.  Sakura will ultimately aim to be a fundamental cross-chain DeFi infrastructure with a storage layer, smart contract layer, DeFi protocol layer and eApp layer built on top of Kusama.",
+      "Description (zh)":
+        "Sakura是Clover的姊妹网，将来通过集成Kusama平行链，来为用户打造一站式的跨链+DeFi解决方案。Sakura将包含Clover所有最新的技术栈以及不断迭代的创新，开发者可以将他们的智能合约无缝迁移到Sakura，并受益于其特有的经济模型。" +
+        "同时Clover钱包也将天然支持Sakura dApps应用（EVM相关dApps，以及波卡生态dApps），以及SKU到以太坊、到币安智能链的双向跨链。Sakura最终将通过其去中心化存储层，智能合约层，DeFi协议层和eApp层来打造一个Kusama之上的跨链+DeFi的基础设施平台。",
+      "Parachain Crowdloans Allocation (en)":
+        "https://projectclover.medium.com/meet-sakura-clovers-sister-network-on-kusama-upcoming-crowdloan-auction-6b8cd7f38afa",
+      "Parachain Crowdloans Allocation (zh)":
+        "https://projectclover.medium.com/meet-sakura-clovers-sister-network-on-kusama-upcoming-crowdloan-auction-6b8cd7f38afa",
+      "Auction Reward & Reward Vesting Schedule (en)":
+        "https://projectclover.medium.com/sakura-pre-crowdloan-is-live-stake-ksm-and-receive-up-to-20-sku-bonus-6d03f5e5087",
+      "Auction Reward & Reward Vesting Schedule (zh)":
+        "https://projectclover.medium.com/sakura-pre-crowdloan-is-live-stake-ksm-and-receive-up-to-20-sku-bonus-6d03f5e5087",
+      "Financing Information (en)": "",
+      "Financing Information (zh)": "",
+      "Website Link": "https://clover.finance/sakura",
+      "Twitter Link": "https://twitter.com/clover_finance/",
+      "Telegram Link": "https://t.me/clover_en/",
+      "Discord Link": "https://discord.gg/z2egJBsBWx",
+      "Medium Link": "https://projectclover.medium.com/",
+      "Github Link": "https://github.com/clover-network",
       logo: sakura_icon,
     },
   ],
