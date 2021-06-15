@@ -167,6 +167,7 @@ const definitions = {
           "CommodityInfo": "Vec<u8>",
           "CommodityLimit": "u128",
           "UserCommodityLimit": "u64",
+          "BlockHash": "h256",
           "ChipsDetail": {
             "type": "struct",
             "type_mapping": [
