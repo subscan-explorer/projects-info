@@ -8,36 +8,59 @@ This repo contains info of parachain projects used in [Subscan parachain module]
 
 - All the items are optional, fill in " " for those that cannot be answered at present.
 
-- Please use the account that submitted `registrar_reserve` to sign the `project information`, and fill in the signature. We will compare the submitted information with the signature. If it does not match, the pr will not be merged.
+- Please use the owner account that submitted `registrar_reserve` to sign the `project information`, and fill in the signature. We will compare the submitted information with the signature. If it does not match, the pr will not be merged.
 
 - After each update of the `project information`, please sign the latest data and submit the signature.
 
-- Signature tool: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/signing
+- Signature tool: [For Kusama](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/signing) , [For Rococo](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/signing) , [For Westend](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fwestend-rpc.polkadot.io#/signing).
 
 
 Welcome to pr to update your `project information`.
 
 ## Example
 
-//The format of `project information`
+> Please modify and use the owner account of ParaID to sign the following `project information`
 
-      {
-        ParaID: '0',
-        Description: 'text',
-        Parachain Crowdloans Allocation: 'text',
-        Auction Reward & Reward Vesting Schedule: 'text',
-        Financing Information: 'text',
-        Website Link: 'text',
-        Twitter Link: 'text',
-        Telegram Link: 'text',
-        Discord Link: 'text',
-        Medium Link: 'text',
-        Github Link: 'text'
-       }
+ParaID: '0',
+
+Project Name: 'text',
+
+Description (en): 'text',
+
+Description (zh): 'text',
+
+Parachain Crowdloans Allocation (en): 'text or link',
+
+Parachain Crowdloans Allocation (zh): 'text or link',
+
+Auction Reward & Reward Vesting Schedule (en): 'text or link',
+
+Auction Reward & Reward Vesting Schedule (zh): 'text or link',
+
+Financing Information (en): 'text or link',
+
+Financing Information (zh): 'text or link',
+
+Website Link: 'link',
+
+Twitter Link: 'link',
+
+Telegram Link: 'link',
+
+Discord Link: 'link',
+
+Medium Link: 'link',
+
+Github Link: 'link'
+       
 ---------------
+
+ Owner account: ''
  
- Signature: '0x....'
+ Signature: '0x....',
  
 ---------------
 
-Logo: ''
+Logo: '' 
+
+> Upload to [Here](https://github.com/itering/parachain-projects-info/tree/main/assets/images)
