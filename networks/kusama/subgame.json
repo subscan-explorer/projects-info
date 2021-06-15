@@ -1,0 +1,23 @@
+{
+    "data": {
+        "ParaID": "2018",
+        "Project Name": "SubGame Gamma",
+        "Logo": "../../assets/images/subgame.png",
+        "Description (en)": "SubGame is a public chain development team based on the Polkadot Para chain. It hopes to build a public chain with cross-chain interoperability. In addition to creating game applications, it can also build various types of application scenarios to create a common cross-chain industry. The blockchain infrastructure provides unlimited possibilities for distributed mobile applications.",
+        "Description (zh)": "SubGame为基于Polkadot平行链的公链开发团队，希望能够建立一个拥有跨链互操作性的公链，除了能够打造游戏应用外，也能够构建出各种类型的应用场景，打造跨链产业共通层级的区块链基础设施，为分布式移动应用提供无限可能性。",
+        "Parachain Crowdloans Allocation (en)": "",
+        "Parachain Crowdloans Allocation (zh)": "",
+        "Auction Reward & Reward Vesting Schedule (en)": "",
+        "Auction Reward & Reward Vesting Schedule (zh)": "",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://www.subgame.org/",
+        "Twitter Link": "",
+        "Telegram Link": "",
+        "Discord Link": "",
+        "Medium Link": "",
+        "Github Link": "https://github.com/SubGame-Network",
+        "Owner account": "J1JkbmLGaGz69VADfbtZubFE5dtYxNRhn6HNYz6VV1Vk5PM"
+    },
+    "signature": "0x0ac22b1d9de1d67674530a758ea7a518d78a259249b57e014b2407707583fe4b644b239d50cf998ea3b990d78e3412d1de3d439716b7dabd7ef0680b0851a984"
+}
