@@ -1,0 +1,23 @@
+{
+    "data": {
+        "Para ID": "2012",
+        "Project Name": "Crust Shadow",
+        "Logo": "../../assets/images/crust-shadow.svg",
+        "Description (en)": "Crust Shadow is a `Kusama version` for Crust Network, an early unaudited release of the code that is available first and holds real economic value. Crust Shadow is designed to be a Kusama parachain, and will participate in Kusama's slot auctions. Crust Shadow is a proving ground for XCMP, and can provide storage functions to other parachains. Crust Shadow will be upgraded with the development of Kusama.",
+        "Description (zh)": "Crust Shadow是一个 “KUSAMA版本” 的Crust网络, 一个早期未经审核发布的可用代码, 并拥有真正的经济价值。Crust Shadow被设计成Kusama平行链。它将参加Kusama的平行链插槽拍卖。Crust Shadow是XCMP的一个试验场, 可以为其他平行链提供存储功能, 将随着Kusama的发展而升级。",
+        "Parachain Crowdloans Allocation (en)": "https://medium.com/crustnetwork/kusama-parachain-auction-plan-crust-network-5335996621f6",
+        "Parachain Crowdloans Allocation (zh)": "https://medium.com/crustnetwork/kusama-parachain-auction-plan-crust-network-5335996621f6",
+        "Auction Reward & Reward Vesting Schedule (en)": "https://medium.com/crustnetwork/join-the-crust-shadow-crowdloan-for-the-kusama-parachain-slot-auction-e0f041ae9627",
+        "Auction Reward & Reward Vesting Schedule (zh)": "https://medium.com/crustnetwork/join-the-crust-shadow-crowdloan-for-the-kusama-parachain-slot-auction-e0f041ae9627",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://crust.network/",
+        "Twitter Link": "https://twitter.com/clover_finance/",
+        "Telegram Link": "https://t.me/CrustNetwork",
+        "Discord Link": "https://discord.gg/Jbw2PAUSCR",
+        "Medium Link": "https://crustnetwork.medium.com/",
+        "Github Link": "https://github.com/crustio",
+        "Owner account": "F2fjhcks69mYK7QuMp2AgCEcZbYzpH82cvk8FcDeCfXXF6P"
+    },
+    "signature": "0x7cb33cac7c1926268155b489a59e8a83349dfe5369bc614cd09f910e0e40cb76a58f8aade73a798f5bafcecdb227ac54515add867117079d54ebefa0685df28c"
+}
