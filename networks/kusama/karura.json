@@ -1,0 +1,36 @@
+{
+    "data":{
+        "ParaID": "2000",
+
+        "Project Name": "Karura",
+        
+        "Description (en)": "Karura is the all-in-one DeFi Hub of Kusama and Acala’s sister network. Karura provides a platform for DApps as well as a suite of DeFi applications including liquid KSM staking, the Karura DEX, and the Karura Dollar (kUSD) stablecoin.",
+        
+        "Description (zh)": "Karura 是 Kusama 一站式跨链 DeFi 平台，Karura 能够为用户带来快速的资产互换体验，稳健的去中心化资产借贷体验，丰富的流动性挖矿体验以及安全的释放 KSM Staking 流动性体验，以及发行和使用稳定币 Karura Dollar (kUSD)",
+        
+        "Parachain Crowdloans Allocation (en)": "11% of KAR supply. https://acala.network/karura/token",
+        
+        "Parachain Crowdloans Allocation (zh)": "KAR 总发行量的11%. https://acala.network/karura/token",
+        
+        "Auction Reward & Reward Vesting Schedule (en)": "30% liquid upon launch and 70% linear vesting over the duration of the parachain slot. https://acala.network/karura/token",
+        
+        "Auction Reward & Reward Vesting Schedule (zh)": "30%上线后即刻流动，70%在租赁期间线性释放. https://acala.network/karura/token",
+        
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        
+        "Website Link": "https://karura.network",
+        
+        "Twitter Link": "https://twitter.com/KaruraNetwork",
+        
+        "Telegram Link": "https://t.me/karuranetwork",
+        
+        "Discord Link": "https://discord.gg/HpsZx5r",
+        
+        "Medium Link": "https://medium.com/acalanetwork",
+        
+        "Github Link": "https://github.com/AcalaNetwork/"
+    },
+    "signature": "",
+    "logo": "https://github.com/itering/parachain-projects-info/blob/main/assets/images/karura.svg"
+}
