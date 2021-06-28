@@ -1,0 +1,20 @@
+{
+    "data": {
+      "Para ID": "2077",
+      "Project Name": "Robonomics",
+      "Logo": "../../assets/images/Robonomics-TokenSign-color.svg",
+      "Description (en)": "Futuristic, secure, and server-less IoT platform on top of Ethereum && Polkadot. Bringing economy of robots into the 4th industrial revolution.",
+      "Parachain Crowdloans Allocation (en)": "https://robonomics.network/kusama-slot",
+      "Auction Reward & Reward Vesting Schedule (en)": "https://robonomics.network/blog/crowdloan-starts-today",
+      "Financing Information (en)": "",
+      "Financing Information (zh)": "",
+      "Website Link": "https://robonomics.network/",
+      "Twitter Link": "https://twitter.com/AIRA_Robonomics",
+      "Telegram Link": "https://t.me/robonomics",
+      "Discord Link": "https://discord.com/invite/TM4ABZcGPr",
+      "Medium Link": "https://robonomics.network/blog",
+      "Github Link": "https://github.com/airalab/robonomics",
+      "Owner account": "Eo2YWNA49Uhqu3rVawFUjhm19H72XeuNinmAHBGbKpHasNH"
+    },
+    "signature": "0x8045bd7c77cb35963c23b6b9f7a05b1855aff2c03793b11c1b51ef281419f70c4409f0bf545911300934cf5b723637204d5e96865c655b0e048052c46bcc0b8e"
+  }
