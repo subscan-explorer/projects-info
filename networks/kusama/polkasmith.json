@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": "2009",
+    "Project Name": "PolkaSmith",
+    "Logo": "../../assets/images/polkasmith.svg",
+    "Description (en)": "Implemented on Kusama Network, PolkaSmith is a canary chain of PolkaFoundry, a one-stop production hub creating borderless and frictionless DeFi & NFT applications. PolkaSmith will be a reliable platform for early-stage startups to unleash their creativity, experiment with bold new ideas, and hack the proliferative growth.",
+    "Description (zh)": "PolkaSmith在Kusama Network上实施，是PolkaFoundry的一个金丝雀链，PolkaFoundry是一站式生产中心，创建无边界且无摩擦的DeFi和NFT应用程序。 PolkaSmith是一个可靠的平台，将为初创公司提供一个释放他们的创造力、尝试大胆的新想法并激发增生性增长",
+    "Parachain Crowdloans Allocation (en)": "https://medium.com/polkafoundry/jun-14-official-update-about-polkasmith-and-parachain-auction-plan-on-kusama-network-f29c00e1e466",
+    "Parachain Crowdloans Allocation (zh)": "https://medium.com/polkafoundry/jun-14-official-update-about-polkasmith-and-parachain-auction-plan-on-kusama-network-f29c00e1e466",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://polkasmith.polkafoundry.com",
+    "Twitter Link": "https://twitter.com/PolkaFoundry",
+    "Telegram Link": "https://t.me/PolkaFoundryANN",
+    "Discord Link": "",
+    "Medium Link": "https://medium.com/polkafoundry",
+    "Github Link": "https://github.com/polkafoundry",
+    "Owner account": "Hss64YRSDjDAbikNatbaQJeq1kCa7Dc6SrDhtW8zah4eKS8"
+  },
+  "signature": "0x34c2a9f29264b13d8b428c82e08ee261fe0314e0f46b29fb9a1f4df7ddd06824e58470d0a8fda2b60271795b728f0fc10a9b570d85606f05056a76bff9782f8e"
+}
