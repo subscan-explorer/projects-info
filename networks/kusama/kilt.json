@@ -1,0 +1,22 @@
+{
+    "data": {
+        "Para ID": "2005",
+        "Project Name": "KILT",
+        "Logo": "../../assets/images/kilt.svg",
+        "Description (en)": "KILT is a blockchain protocol for issuing self-sovereign verifiable, revocable credentials in the Web 3.0.",
+        "Parachain Crowdloans Allocation (en)": "",
+        "Parachain Crowdloans Allocation (zh)": "",
+        "Auction Reward & Reward Vesting Schedule (en)": "",
+        "Auction Reward & Reward Vesting Schedule (zh)": "",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://www.kilt.io/",
+        "Twitter Link": "https://twitter.com/Kiltprotocol",
+        "Telegram Link": "https://t.me/KILTProtocolChat",
+        "Discord Link": "",
+        "Medium Link": "https://kilt-protocol.medium.com/",
+        "Github Link": "https://github.com/KILTprotocol",
+        "Owner account": "GqVWENYQDEcz2UFDj7saV5nyDEvDH1QNCQE5QrjQR4XgFcw"
+    },
+    "signature": ""
+}
