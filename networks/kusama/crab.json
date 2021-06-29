@@ -1,0 +1,24 @@
+{
+    "data": {
+        "ParaID": 2006,
+        "Project Name": "Crab",
+        "Logo": "../../assets/images/crab.png",
+        "Description (en)": "Crab is a canary network with real economics for Darwinia",
+        "Description (zh)": "Crab 网络是 Darwinia 网络的一个有经济价值的金丝雀网络",
+        "Parachain Crowdloans Allocation (en)": "https://darwinianetwork.medium.com/darwinia-crabs-kusama-parachain-auction-strategy-3f37cbfdfe4",
+        "Parachain Crowdloans Allocation (zh)": "https://mp.weixin.qq.com/s/fvQIiQp0xqkgXY4bG8Mskw",
+        "Auction Reward & Reward Vesting Schedule (en)": "https://darwinianetwork.medium.com/darwinia-crabs-kusama-parachain-auction-strategy-3f37cbfdfe4",
+        "Auction Reward & Reward Vesting Schedule (zh)": "https://mp.weixin.qq.com/s/fvQIiQp0xqkgXY4bG8Mskw",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://crab.network/",
+        "Twitter Link": "https://twitter.com/DarwiniaNetwork",
+        "Telegram Link": "https://t.me/DarwiniaNetwork",
+        "Discord Link": "https://discord.gg/KSJGA29Xz5",
+        "Medium Link": "https://medium.com/@DarwiniaNetwork",
+        "Github Link": "https://github.com/darwinia-network",
+        "Owner account": "CoxPmsXK24q3QB6jHSxwTxEHJ5375Mo4kPfUZYfKQMxXqZ9"
+    },
+    "signature": "0xec6ba3334e0251dd301ab2b6d6865526147efece0ac1777fa999a6cd09478a1d1a9fa801eb12793a90660578d19eb0e7ae400fb1fa618773734d87aa52509181"
+}
+  
