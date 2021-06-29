@@ -8,18 +8,19 @@ This repo contains info of parachain projects used in [Subscan parachain module]
 
 - All the items are optional, fill in " " for those that cannot be answered at present.
 
-- Please use the owner account that submitted `registrar_reserve` to sign the `project information`, and fill in the signature. We will compare the submitted information with the signature. If it does not match, the pr will not be merged.
+- Please use the *owner account* that submitted `registrar_reserve` to sign the `project information`, and fill in the signature. We will compare the submitted information with the signature. If it does not match, the pr will not be merged.
 
 - After each update of the `project information`, please sign the latest data and submit the signature.
 
 - Signature tool: [For Kusama](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/signing) , [For Rococo](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/signing) , [For Westend](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fwestend-rpc.polkadot.io#/signing).
 
-
 Welcome to pr to update your `project information`.
 
-## Example
+## Example - PR description
 
-> Please modify and use the owner account of ParaID to sign the following `project information`
+> Please add a description for your pr, the description includes the original data of the signature, signature account, and signature.
+
+**Original data of the signature - `project information`:**
 
 ParaID: '0',
 
