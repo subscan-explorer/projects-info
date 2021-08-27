@@ -1,6 +1,6 @@
 {
     "data": {
-        "Para ID": "2005",
+        "Para ID": "2086",
         "Project Name": "KILT Protocol",
         "Logo": "../../assets/images/kilt.svg",
         "Description (en)": "KILT is a blockchain protocol for issuing self-sovereign verifiable, revocable credentials in the Web 3.0.",
@@ -16,7 +16,7 @@
         "Discord Link": "",
         "Medium Link": "https://kilt-protocol.medium.com/",
         "Github Link": "https://github.com/KILTprotocol",
-        "Owner account": "GqVWENYQDEcz2UFDj7saV5nyDEvDH1QNCQE5QrjQR4XgFcw"
+        "Owner account": "DM5jFFrjW6TQWBBz7UAL7GssDVP94wGhhwLcJnHiY1EFfCY"
     },
-    "signature": "0x108ff93923f27f2bbad29bbf82407f8859ed3406f57fc3303d25ba71af7aa8796e469bd5fc9bb6aad036a7f04ad5f7813687a27d0a3a94426cdce6747804bb85"
+    "signature": "0xf840bd6dd5608e89daa540fb91cdb42c799487aa3ee3527a9a4b0464cb9fdf0a4e8fa1e7d12d9760c53280038f4c4ea96fb441d5f5472cc9cb45f643d2df318c"
 }
