@@ -1,0 +1,23 @@
+{
+    "data": {
+        "Para ID": "2084",
+        "Project Name": "Calamari",
+        "Logo": "../../assets/images/calamari.png",
+        "Description (en)": "Calamari, Manta Network's canary-net, is the plug-and-play privacy-preservation parachain built to service the Kusama DeFi world. It combines Kusama and zkSNARKs to bring on-chain privacy to transactions and swaps.",
+        "Description (zh)": "Calamari Network 作为 Manta Network 的社区化先行网，是在 Kusama 上即插即用的隐私保护平行链，旨在为整个 Kusama 的 DeFi 网络提供隐私服务。 Calamari Network 建立在 Kusama 上作为平行链保证跨链互操作性，基于 zkSNARK （零知识证明技术）保障隐私性。",
+        "Parachain Crowdloans Allocation (en)": "",
+        "Parachain Crowdloans Allocation (zh)": "",
+        "Auction Reward & Reward Vesting Schedule (en)": "",
+        "Auction Reward & Reward Vesting Schedule (zh)": "",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "www.calamari.network",
+        "Twitter Link": "twitter.com/calamarinetwork",
+        "Telegram Link": "t.me/mantanetworkofficial",
+        "Discord Link": "https://discord.gg/G9zwBRW7Ad",
+        "Medium Link": "mantanetwork.medium.com",
+        "Github Link": "github.com/manta-network",
+        "Owner account": "FzHWXZ2GXMHAYBKQYinNDkRFAAHm8sHFKpMss473e2FTfxL"
+    },
+    "signature": "0xe6caa1744cc811eb1fd8445d35f88b766f733d63343033c3eb57e16f219cb41bdb5b17d0157549b794832a11959cdcb41b2c2f8eba8c122b9a6ab26de81e028b"
+}
