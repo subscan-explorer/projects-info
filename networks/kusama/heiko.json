@@ -1,0 +1,24 @@
+{
+  "data": {
+    "Para ID": "2085",
+    "Project Name": "Parallel Heiko",
+    "Logo": "../../assets/images/heiko.svg",
+    "Description (en)": "A decentralized lending & staking protocol built on top of the Polkadot ecosystem.",
+    "Description (zh)": "Parallel Heiko作为Parallel在kusama上的先行网，提供去中心化的借贷，质押功能",
+    "Parachain Crowdloans Allocation (en)": "",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://parallel.fi",
+    "Twitter Link": "https://twitter.com/ParallelFi",
+    "Telegram Link": "https://t.me/parallelfi",
+    "Discord Link": "https://discord.com/invite/buKKx4dySW",
+    "Medium Link": "https://parallelfinance.medium.com",
+    "Github Link": "https://github.com/parallel-finance",
+    "Owner account": "CrDdFXV729K1ipSRmuyv4ux5uGzmwjEvihvmL29f4T8AScQ"
+  },
+  "signature": ""
+}
+
