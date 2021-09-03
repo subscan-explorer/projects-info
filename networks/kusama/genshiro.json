@@ -1,0 +1,23 @@
+{
+    "data": {
+        "Para ID": "2089",
+        "Project Name": "Genshiro",
+        "Logo": "../../assets/images/crust-shadow.svg",
+        "Description (en)": "",
+        "Description (zh)": "",
+        "Parachain Crowdloans Allocation (en)": "https://genshiro.equilibrium.io/en/plo",
+        "Parachain Crowdloans Allocation (zh)": "https://genshiro.equilibrium.io/zh/plo",
+        "Auction Reward & Reward Vesting Schedule (en)": "https://genshiro.equilibrium.io/en/plo",
+        "Auction Reward & Reward Vesting Schedule (zh)": "https://genshiro.equilibrium.io/zh/plo",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://genshiro.equilibrium.io/",
+        "Twitter Link": "https://twitter.com/GenshiroDeFi",
+        "Telegram Link": "https://t.me/genshiro_official",
+        "Discord Link": "",
+        "Medium Link": "",
+        "Github Link": "https://github.com/equilibrium-eosdt",
+        "Owner account": "F2fjhcks69mYK7QuMp2AgCEcZbYzpH82cvk8FcDeCfXXF6P"
+    },
+    "signature": "0x7cb33cac7c1926268155b489a59e8a83349dfe5369bc614cd09f910e0e40cb76a58f8aade73a798f5bafcecdb227ac54515add867117079d54ebefa0685df28c"
+}
