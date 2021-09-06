@@ -3,8 +3,8 @@
         "Para ID": "2089",
         "Project Name": "Genshiro",
         "Logo": "../../assets/images/genshiro.svg",
-        "Description (en)": "",
-        "Description (zh)": "",
+        "Description (en)": "Genshiro is a unique money market with novel liquidation mechanics and portfolio margining. By using bailouts, no auctions are needed, and liquidity providers (bailsmen) supply liquidity in advance. Combined with on-chain risk modeling, our platform allows for use cases like borrowing, lending, stablecoin generation, and a decentralized exchange with margin trading and up to 20x leverage. Genshiro works with portfolios and not single collateral vaults. We bring all known DeFi use-cases to work in a beautiful and unified way. We're a one-stop DeFi shop on Kusama!",
+        "Description (zh)": "Genshiro是一个独特的货币市场，具有新颖的清算机制和组合抵押。通过使用紧急援助，不需要拍卖，就能提供很好的流动性。我们使用链上风险建模，允许平台借款、借贷、生成稳定币，以及去中心化的融资融券交易和高达20倍的杠杆。Genshiro能完成现在DeFi的所有功能。它将成为Kusama上第一个一站式一体化的DeFi商店。",
         "Parachain Crowdloans Allocation (en)": "https://genshiro.equilibrium.io/en/plo",
         "Parachain Crowdloans Allocation (zh)": "https://genshiro.equilibrium.io/zh/plo",
         "Auction Reward & Reward Vesting Schedule (en)": "https://genshiro.equilibrium.io/en/plo",
@@ -14,10 +14,10 @@
         "Website Link": "https://genshiro.equilibrium.io/",
         "Twitter Link": "https://twitter.com/GenshiroDeFi",
         "Telegram Link": "https://t.me/genshiro_official",
-        "Discord Link": "",
-        "Medium Link": "",
+        "Discord Link": "https://discord.gg/p2FmYuW5Hu",
+        "Medium Link": "https://medium.com/equilibrium-eosdt",
         "Github Link": "https://github.com/equilibrium-eosdt",
-        "Owner account": "F2fjhcks69mYK7QuMp2AgCEcZbYzpH82cvk8FcDeCfXXF6P"
+        "Owner account": "G5PCG13D3dGMaak3GuPAFw5TW3B9nNiWNpzZE8Rp5g4WDzc"
     },
     "signature": "0x7cb33cac7c1926268155b489a59e8a83349dfe5369bc614cd09f910e0e40cb76a58f8aade73a798f5bafcecdb227ac54515add867117079d54ebefa0685df28c"
 }
