@@ -1,0 +1,23 @@
+{
+    "data": {
+        "Para ID": "2089",
+        "Project Name": "Genshiro",
+        "Logo": "../../assets/images/genshiro.svg",
+        "Description (en)": "Genshiro is a cross-chain DeFi one-stop shop on Kusama with novel liquidation mechanics and portfolio margining. With bailouts, no auctions are needed, while liquidity providers (bailsmen) are supplying liquidity in advance. Our platform leverages unique on-chain risk modeling to enable the most demanded use cases like borrowing, pooled lending, stablecoin generation, and decentralized trading on margin with up to 20x leverage. Genshiro works with portfolios rather than single collateral vaults to minimize risks for users. We bring all known DeFi instruments to work together in a beautiful and unified way.",
+        "Description (zh)": "Genshiro是Kusama上第一个一站式一体化的DeFi商店，拥有新颖的清算机制和投资抵押。在救助机制中，不需要拍卖，就能提供很好的流动性。我们使用链上风险建模，允许平台借款、借贷、生成稳定币，以及去中心化的融资融券交易和高达20倍的杠杆。Genshiro使用的投资组合不是单一的担保金来最大限度地降低用户的风险。现Genshiro能完成DeFi上的所有功能。",
+        "Parachain Crowdloans Allocation (en)": "https://genshiro.equilibrium.io/en/plo",
+        "Parachain Crowdloans Allocation (zh)": "https://genshiro.equilibrium.io/zh/plo",
+        "Auction Reward & Reward Vesting Schedule (en)": "https://genshiro.equilibrium.io/en/plo",
+        "Auction Reward & Reward Vesting Schedule (zh)": "https://genshiro.equilibrium.io/zh/plo",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://genshiro.equilibrium.io/",
+        "Twitter Link": "https://twitter.com/GenshiroDeFi",
+        "Telegram Link": "https://t.me/genshiro_official",
+        "Discord Link": "https://discord.gg/p2FmYuW5Hu",
+        "Medium Link": "https://medium.com/equilibrium-eosdt",
+        "Github Link": "https://github.com/equilibrium-eosdt",
+        "Owner account": "G5PCG13D3dGMaak3GuPAFw5TW3B9nNiWNpzZE8Rp5g4WDzc"
+    },
+    "signature": "0x9c370a0718e1c9b3812f78587778464f35743ac2a119d688cc76860dda722478f460a911ad8a7986382fc8242e59d82d2a08dad35893dc2b96df7a194f1b9189"
+}
