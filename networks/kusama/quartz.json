@@ -1,0 +1,24 @@
+{
+    "data": {
+        "ParaID": 2095,
+        "Project Name": "Quartz by Unique",
+        "Logo": "../../assets/images/quartz.png",
+        "Description (en)": "NFT Chain for Kusama. Provides basic and advanced functionality of creating and managing NFTs in the Kusama ecosystem.",
+        "Description (zh)": "Kusama 上的 NFT 链。提供在 Kusama 生态系统中创建和管理 NFT 的基本和高级功能。",
+        "Parachain Crowdloans Allocation (en)": "https://unique.network/quartz/crowdloan/contribute/",
+        "Parachain Crowdloans Allocation (zh)": "https://unique.network/quartz/crowdloan/contribute/",
+        "Auction Reward & Reward Vesting Schedule (en)": "https://unique.network/quartz/crowdloan/contribute/",
+        "Auction Reward & Reward Vesting Schedule (zh)": "https://unique.network/quartz/crowdloan/contribute/",
+        "Financing Information (en)": "https://unique.network/quartz/",
+        "Financing Information (zh)": "https://unique.network/quartz/",
+        "Website Link": "https://unique.network/",
+        "Twitter Link": "https://twitter.com/unique_nftchain",
+        "Telegram Link": "https://t.me/Uniquechain",
+        "Discord Link": "https://discord.gg/jHVdZhsakC",
+        "Medium Link": "",
+        "Github Link": "https://github.com/UniqueNetwork",
+        "Owner account": "HC7FK5TNgUrdA8L3P3g4tU6s5axJpjsXr7oYArejv6Vjadh"
+    },
+    "signature": "0xe0349f85baafa357a4288a297f7de2a91d326544c174bb08c98843fbbb7cfc5fbf7f55e55ded94d038d7c53d302452b9697f5f5e35644774af0f9698e1023f85"
+}
+
