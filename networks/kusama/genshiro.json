@@ -1,6 +1,6 @@
 {
     "data": {
-        "Para ID": "2089",
+        "Para ID": "2024",
         "Project Name": "Genshiro",
         "Logo": "../../assets/images/genshiro.svg",
         "Description (en)": "Genshiro is a cross-chain DeFi one-stop shop on Kusama with novel liquidation mechanics and portfolio margining. With bailouts, no auctions are needed, while liquidity providers (bailsmen) are supplying liquidity in advance. Our platform leverages unique on-chain risk modeling to enable the most demanded use cases like borrowing, pooled lending, stablecoin generation, and decentralized trading on margin with up to 20x leverage. Genshiro works with portfolios rather than single collateral vaults to minimize risks for users. We bring all known DeFi instruments to work together in a beautiful and unified way.",
@@ -19,5 +19,5 @@
         "Github Link": "https://github.com/equilibrium-eosdt",
         "Owner account": "G5PCG13D3dGMaak3GuPAFw5TW3B9nNiWNpzZE8Rp5g4WDzc"
     },
-    "signature": "0x9c370a0718e1c9b3812f78587778464f35743ac2a119d688cc76860dda722478f460a911ad8a7986382fc8242e59d82d2a08dad35893dc2b96df7a194f1b9189"
+    "signature": "0xde840aed3dbb8ae70fdf050c0e3afb0ed2344775371d11072dba94defc601c7704bba4dd40b005044d248bc62b60ee40879f85fe6382cd1cdb1a1da4a30d9789"
 }
