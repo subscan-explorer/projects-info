@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": 2003,
+    "Project Name": "darwinia",
+    "Logo": "../../assets/images/darwinia.png",
+    "Description (en)": "Darwinia Network is a decentralized cross-chain bridge network building on Substrate, which is the 'Web 3.0 cross-chain bridge hub' of the cross-chain ecology.",
+    "Description (zh)": "Darwinia Network 是一个建立在 Substrate 上的去中心化跨链桥接网络，是跨链生态的 Web 3.0 跨链桥接枢纽",
+    "Parachain Crowdloans Allocation (en)": "https://darwinianetwork.medium.com/darwinia-crabs-kusama-parachain-auction-strategy-3f37cbfdfe4",
+    "Parachain Crowdloans Allocation (zh)": "https://mp.weixin.qq.com/s/fvQIiQp0xqkgXY4bG8Mskw",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://darwinianetwork.medium.com/darwinia-crabs-kusama-parachain-auction-strategy-3f37cbfdfe4",
+    "Auction Reward & Reward Vesting Schedule (zh)": "https://mp.weixin.qq.com/s/fvQIiQp0xqkgXY4bG8Mskw",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://darwinia.network/",
+    "Twitter Link": "https://twitter.com/DarwiniaNetwork",
+    "Telegram Link": "https://t.me/DarwiniaNetwork",
+    "Discord Link": "https://discord.gg/KSJGA29Xz5",
+    "Medium Link": "https://medium.com/@DarwiniaNetwork",
+    "Github Link": "https://github.com/darwinia-network",
+    "Owner account": "1EdsnniYSKNjHNAvDgvBfRNzKnSzi6kgsHQFCG4PhAyyJWH"
+  },
+  "signature": "0xe094c0ba5b6bdf5017f5a7728bc273c1483a821c5d551dc527b67fe5d8cb7203886758eadc56fcc756a7ff8f314c71102e878825e9599f8e1ffbb6e40c229686"
+}
