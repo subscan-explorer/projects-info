@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": 2006,
+    "Project Name": "astar",
+    "Logo": "../../assets/images/astar.svg",
+    "Description (en)": "Astar Network is a multi-chain dApp hub on Polkadot, supporting Ethereum Virtual Machine, WebAssembly, layer2 solutions and multiple layer1 blockchains. Since Polkadot Relaychain doesn’t support smart contracts by design, Astar provides dApp developers a high-performance smart contract platform with scalability and interoperability between multiple virtual machines and layer1 blockchains. Astar has organic dev growth with teams building synthetic assets, stablecoins, a multichain DEX, etc.",
+    "Description (zh)": "Astar Network 是基于 Polkadot 的多链多虚拟机 DApp 中心，原生支持以太坊虚拟机（EVM）、WebAssembly、Layer2 扩容方案和主流 Layer1 区块链。Polkadot 中继链在设计上并不支持智能合约，所以 DApp 开发者需要性能优越、可扩展的智能合约平行链。此外，Astar 还支持多条主流 Layer1 区块链，提供 Polkadot 和其他区块链的互操作性。Astar 生态已经实现快速内生增长，多个团队正在构建包括合成资产、稳定币、多链 DEX 等去中心化应用。",
+    "Parachain Crowdloans Allocation (en)": "https://medium.com/astar-network/the-astar-crowdloan-event-is-live-474bf9dd20af",
+    "Parachain Crowdloans Allocation (zh)": "https://mp.weixin.qq.com/s/lmGsP6C_n6zrIuUzynTG9w ",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://medium.com/astar-network/the-astar-crowdloan-event-is-live-474bf9dd20af",
+    "Auction Reward & Reward Vesting Schedule (zh)": "https://mp.weixin.qq.com/s/lmGsP6C_n6zrIuUzynTG9w ",
+    "Financing Information (en)": "https://docs.astar.network/learn/token-economics/token-allocation",
+    "Financing Information (zh)": "",
+    "Website Link": "https://astar.network/",
+    "Twitter Link": "https://twitter.com/AstarNetwork",
+    "Telegram Link": "https://t.me/PlasmOfficial",
+    "Discord Link": "https://discord.gg/Z3nC9U4",
+    "Medium Link": "https://medium.com/astar-network",
+    "Github Link": "https://github.com/PlasmNetwork",
+    "Owner account": "1j5YyEGdcPd9BxkzVNNjKkqdi5f7g3Dd7JMgaGUhsMrZ6dZ"
+  },
+  "signature": "0xce9c4dc3c055e7c63b29db1bebc1a6756619412ccb71b0a55f9cbba68eb70201dbe22b9dcbabc5adb7b0a3e3c61bab606147f612094f63c4d09cc552793dba8c"
+}
