@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": 2026,
+    "Project Name": "Nodle",
+    "Logo": "../../assets/images/nodle.svg",
+    "Description (en)": "Nodle is a decentralized wireless network, harnessing the power of smartphones to provide a low-cost and secure IoT infrastructure for enterprises, device manufacturers, and smart cities.",
+    "Description (zh)": "",
+    "Parachain Crowdloans Allocation (en)": "https://parachain.nodle.com",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://learn.nodleprotocol.io/parachain/crowdloan",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://nodle.com/",
+    "Twitter Link": "https://twitter.com/NodleNetwork",
+    "Telegram Link": "https://t.me/NodleCommunity",
+    "Discord Link": "https://discord.gg/N5nTUt8RWJ",
+    "Medium Link": "https://medium.com/@Nodle",
+    "Github Link": "https://github.com/NodleCode",
+    "Owner account": "16LKv69ct6xDzSiUjuz154vCg62dkyysektHFCeJe85xb6X"
+  },
+  "signature": ""
+}
