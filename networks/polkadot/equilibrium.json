@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": 2011,
+    "Project Name": "Equilibrium",
+    "Logo": "../../assets/images/equilibrium.svg",
+    "Description (en)": "Equilibrium is a DeFi 2.0 protocol in Polkadot ecosystem with novel approach to risk and pricing of portfolio of assets on-chain. Borrow, lend, insure, trade, swap - all cross-chain with the help of Equilibrium.",
+    "Description (zh)": "Equilibrium是Polkadot生态系统中的一个DeFi 2.0协议，它对链上资产组合的风险和定价采用了新的方法。借，贷，交易，互换——所有的交叉链在Equilibrium的帮助下实现。",
+    "Parachain Crowdloans Allocation (en)": "https://medium.com/equilibrium-eosdt/introducing-equilibriums-crowdloan-strategy-up-to-40-bonus-4e11005763f8",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://medium.com/equilibrium-eosdt/introducing-equilibriums-crowdloan-strategy-up-to-40-bonus-4e11005763f8",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "https://medium.com/equilibrium-eosdt/introducing-equilibriums-crowdloan-strategy-up-to-40-bonus-4e11005763f8",
+    "Financing Information (zh)": "",
+    "Website Link": "https://equilibrium.io/en/crowdloan",
+    "Twitter Link": "https://twitter.com/EquilibriumDeFi",
+    "Telegram Link": "https://t.me/equilibrium_eosdt_official",
+    "Discord Link": "https://discord.gg/yf4YzpKp",
+    "Medium Link": "https://medium.com/equilibrium-eosdt",
+    "Github Link": "https://github.com/equilibrium-eosdt",
+    "Owner account": "14fhPR28n9EHZitNyf6wjYZVBPwKgcgogVjJPTzvCcb8qi9G"
+  },
+  "signature": "0x261cf19e2487d487500327e039344d42aec04beb53fab4b4bed2ee978c8d69293d3167f0e07c726163f249eb1028e7bb9e5df6e3a0ee83c352aa7ef8d0954483"
+}
