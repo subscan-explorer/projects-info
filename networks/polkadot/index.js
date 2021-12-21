@@ -1,3 +1,5 @@
 export default {
-    parachains: {}
+    parachains: {
+        "2011": "equilibrium.json"
+    }
 }
