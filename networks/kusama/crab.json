@@ -6,9 +6,7 @@
         "Description (en)": "Crab is a canary network with real economics for Darwinia",
         "Description (zh)": "Crab 对于 Darwinia 来说是一个具有真实经济价值的金丝雀网络",
         "Parachain Crowdloans Allocation (en)": "https://darwinianetwork.medium.com/guide-to-participate-in-the-crab-plo-e9b145bed4c9",
-        "Parachain Crowdloans Allocation (zh)": "https://mp.weixin.qq.com/s/fvQIiQp0xqkgXY4bG8Mskw",
         "Auction Reward & Reward Vesting Schedule (en)": "https://darwinianetwork.medium.com/guide-to-participate-in-the-crab-plo-e9b145bed4c9",
-        "Auction Reward & Reward Vesting Schedule (zh)": "https://mp.weixin.qq.com/s/fvQIiQp0xqkgXY4bG8Mskw",
         "Financing Information (en)": "",
         "Financing Information (zh)": "",
         "Website Link": "https://crab.network/",
@@ -19,6 +17,6 @@
         "Github Link": "https://github.com/darwinia-network",
         "Owner account": "CoxPmsXK24q3QB6jHSxwTxEHJ5375Mo4kPfUZYfKQMxXqZ9"
     },
-    "signature": "0x32beae28e6e94b37d023860dc031582d512a9e1fa4c9cc8cbac544f4fe6241708fb8496d7eaeb60aa081aa8943ad49328596f6b158ee4a0f76a6a3cb6102628c"
+    "signature": "0x68913400c0b63fd5d64d240b9ffad281f7d3dfecd6dc6616a6d51fbfd8612a55d3e2f0222eeecca6e58d4d44da337cc40fa5330ccdf2064973cc232ca1fea680"
 }
   
