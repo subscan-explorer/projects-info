@@ -1,0 +1,23 @@
+{
+    "data": {
+        "Para ID": "2008",
+        "Project Name": "Mars",
+        "Logo": "../../assets/images/ares-mars-logo.png",
+        "Description (en)": "Mars is a canary network built by Ares Protocol on Kusama. It will conduct some contract call tests on asset prices. It will provide Kusama with a native Oracle system and bring a better Oracle service to DeFi developers.",
+        "Description (zh)": "Mars是Ares Protocol搭建在Kusama上的金丝雀网络。它会进行一些资产价格的合约调用测试，给Kusama提供一个原生预言机支持，旨在为 Kusama DeFi 世界提供服务。",
+        "Parachain Crowdloans Allocation (en)": "https://aresprotocollab.medium.com/the-canary-network-of-ares-protocol-mars-announced-auction-strategy-crowdloaning-specification-a1e66f74b985",
+        "Parachain Crowdloans Allocation (zh)": "https://mp.weixin.qq.com/s/2wauXUd9Z57xwGb8Qb1N7w",
+        "Auction Reward & Reward Vesting Schedule (en)": "",
+        "Auction Reward & Reward Vesting Schedule (zh)": "",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://aresprotocol.io/mars",
+        "Twitter Link": "https://twitter.com/AresProtocolLab",
+        "Telegram Link": "https://t.me/AresProtocolLab",
+        "Discord Link": "https://discord.gg/cqduK4ZNaY",
+        "Medium Link": "https://aresprotocollab.medium.com",
+        "Github Link": "https://github.com/aresprotocols",
+        "Owner account": ""
+    },
+    "signature": "0x942e5d1ad02fb33add4f3616d9aac664ba5ee770cf4ed0cd4774744af655bb3a4d6ed095dd1b70ae79371bbeff3a2f9375cefca68c5d45596a8c21a9aaea2a8f"
+}
