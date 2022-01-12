@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": "2028",
+    "Project Name": "Ares Odyssey",
+    "Logo": "../../assets/images/ares-logo.png",
+    "Description (en)": "Ares Protocol is a decentralized cross-chain oracle platform that introduces a truly new generation of cross-chain oracle service protocols with on-chain data verification, and is the first to open a compensation channel for data users in case they suffer business losses due to the use of data provided by the oracle. Ares Protocol is an oracle solution with security using VRF, developed on the Substrate framework, and it supports hybrid Babe and off-chain workers. It integrates Polkadot’s latest on-chain governance, brings the Optimistic Rollup challenge model into the oracle field, supports the Ink contract ecosystem, and brings better oracle services to DeFi Developers..",
+    "Description (zh)": "Ares Protocol 是一个去中心化跨链预言机平台，真正实现了数据链上验证的全新一代跨链预言机服务协议，并首创为数据使用者因使用预言机数据遭受业务损失时开辟补偿通道。Ares Protocol是基于Substrate框架开发，支持混合Babe和链下工作机的随机安全预言机解决方案，融合波卡最新的链上治理，将Optimistic Rollup挑战模型带入预言机领域，支持Ink合约生态，给DeFi开发者带来更加优质的预言机服务。",
+    "Parachain Crowdloans Allocation (en)": "",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://aresprotocol.io/",
+    "Twitter Link": "https://twitter.com/AresProtocolLab",
+    "Telegram Link": "https://t.me/AresProtocolLab",
+    "Discord Link": "https://discord.gg/cqduK4ZNaY",
+    "Medium Link": "https://aresprotocollab.medium.com",
+    "Github Link": "https://github.com/aresprotocols",
+    "Owner account": "13pQt6LnK2tXZtXbiQ6PBYikEoNTi6MXkeBdQCeyR9hm6k1p"
+  },
+  "signature": "0x603db4e21d9a07a5778340b0a036ddb4a7a7e27ee068a2caf771c8057f59a8361433d3f96e3a5782dd10ca0239b832386148f660f8947cefc57261679e872d8c"
+}
