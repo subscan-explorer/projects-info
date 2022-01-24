@@ -1,0 +1,20 @@
+{
+  "data": {
+    "ParaID": 2036,
+    "Project Name": "Polkadex",
+    "Logo": "../../assets/images/polkadex.svg",
+    "Description (en)": "Polkadex is a fully decentralized peer-to-peer orderbook-based cryptocurrency exchange for the DeFi ecosystem built on Substrate.",
+    "Parachain Crowdloans Allocation (en)": "https://www.polkadex.trade/crowdloans",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://polkadex.medium.com/polkadex-needs-you-lets-win-a-parachain-on-polkadot-together-b0e480642bd3",
+    "Financing Information (en)": "",
+    "Website Link": "https://www.polkadex.trade/",
+    "Twitter Link": "https://twitter.com/polkadex",
+    "Telegram Link": "https://t.me/Polkadex",
+    "Discord Link": "https://discord.gg/Uvua83QAzk",
+    "Medium Link": "https://polkadex.medium.com",
+    "Github Link": "https://github.com/Polkadex-Substrate/",
+    "Reddit Link": "https://www.reddit.com/r/polkadex/",
+    "Owner account": ""
+  },
+  "signature": ""
+}
