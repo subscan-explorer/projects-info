@@ -1,0 +1,9 @@
+name: "sign checker"
+description: "check sign"
+inputs:
+  filenames:
+    required: true
+    description: "filenames"
+runs:
+  using: node12
+  main: 'main.js'
