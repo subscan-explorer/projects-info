@@ -1,0 +1,20 @@
+{
+  "data": {
+    "ParaID": 2038,
+    "Project Name": "Geminis",
+    "Logo": "../../assets/images/geminis.svg",
+    "Description (en)": "The 1st Parachain in fair launch without a private sale and supported by the advanced ParaState tech stack.",
+    "Parachain Crowdloans Allocation (en)": "https://docs.geminis.network/tokenomics",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Financing Information (en)": "",
+    "Website Link": "https://geminis.network/",
+    "Twitter Link": "https://twitter.com/_ParaState",
+    "Telegram Link": "https://t.me/ParaState",
+    "Discord Link": "https://discord.gg/DgKNeJFBXA",
+    "Medium Link": "https://medium.com/ethereum-on-steroids",
+    "Github Link": "https://github.com/ParaState/",
+    "Reddit Link": "https://www.reddit.com/r/ParaStateOfficial/",
+    "Owner account": "15STAT13QDgKjxBQLQ8mjcdYgtSpfR8HyBwiAGmRZpJNKSck"
+  },
+  "signature": "0x5c6d4cae0ec6393b4d9fdfb07be17bf7bc3c76736b800561b53aa9d93302266bb1eebfc22590f1d165b6c83ee5e98e796f2630be9c65af33529f0fd79b10b88e"
+}
