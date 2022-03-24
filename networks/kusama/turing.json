@@ -1,0 +1,23 @@
+{
+    "data": {
+        "Para ID": "2114",
+        "Project Name": "Turing Network",
+        "Logo": "../../assets/images/turing.png",
+        "Description (en)": "Turing Network is an automation blockchain for Defi and recurring payments in Kusama.",
+        "Description (zh)": "",
+        "Parachain Crowdloans Allocation (en)": "https://oak.tech/turing/token/",
+        "Parachain Crowdloans Allocation (zh)": "",
+        "Auction Reward & Reward Vesting Schedule (en)": "https://oak.tech/turing/reward/",
+        "Auction Reward & Reward Vesting Schedule (zh)": "",
+        "Financing Information (en)": "https://medium.com/oak-blockchain/oak-network-raises-a-5-5m-seed-round-from-foundation-capital-greylock-and-hypersphere-ventures-6c957f1c1ab",
+        "Financing Information (zh)": "",
+        "Website Link": "https://oak.tech/turing/home/",
+        "Twitter Link": "https://twitter.com/oak_network",
+        "Telegram Link": "https://t.me/OAK_Announcements",
+        "Discord Link": "https://discord.gg/7W9UDvsbwh",
+        "Medium Link": "https://medium.com/oak-blockchain",
+        "Github Link": "https://github.com/OAK-Foundation/",
+        "Owner account": "CmxJEdEniSV6hGWoKfHWLR6h4A1dh5gD1vgzmD12osJvGsk"
+    },
+    "signature": "0xa807441ed1b5d7982d260533c13fdeb270b2e57bfb24f3214f594767ab198a51fca379065dda96117614415532f7d11da1be40209e7a3cb6fd9a9a520bc88d89"
+}

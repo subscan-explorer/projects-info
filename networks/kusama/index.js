@@ -7,6 +7,7 @@ export default {
         "2012": "crust-shadow.json",
         "2009": "polkasmith.json",
         "2004": "khala.json",
-        "2089": "genshiro.json"
+        "2089": "genshiro.json",
+        "2114": "turing.json"
     }
 }
