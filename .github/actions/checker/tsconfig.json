@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES5",
+    "target": "ES2015",
     "removeComments": true,
     "preserveConstEnums": true,
     "outFile": "./dist/main.js",

@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0",
     "@polkadot/util": "^8.3.3",
     "@polkadot/util-crypto": "^8.3.3"
   },

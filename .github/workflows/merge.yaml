@@ -1,0 +1,58 @@
+name: Networks info updates
+on:
+  push:
+    branches: [master, main]
+    paths:
+      - networks/**
+      - assets/**
+
+jobs:
+  sync:
+    name: Sync Infos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          repository: subscan-explorer/ui
+          path: subscan-ui
+          token: ${{ secrets.GIT_TOKEN }}
+          fetch-depth: 1
+      - uses: actions/checkout@v3
+        with:
+          path: projects
+          token: ${{ secrets.GIT_TOKEN }}
+          fetch-depth: 1
+      - env:
+          UI_PATH: subscan-ui/src/assets/project-info
+          BOT_GIT_USER_EMAIL: github-actions@subscan.io
+          BOT_GIT_USER_NAME: Subscan UI GitHub Actions Bot
+        name: Push commit
+        id: outer
+        run: |
+          mkdir $UI_PATH
+          cp -rf projects/assets projects/networks $UI_PATH/
+          
+          BOT_COMMIT_MESSAGE="Sync parachain projects info to ${GITHUB_SHA::7}."
+          BOT_COMMIT_DESCRIPTION="GitHub Actions Context:
+          * Actor: ${{ github.actor }}
+          * Git ref: ${{ github.ref }}
+          * Git commit: https://github.com/${{ github.repository }}/commit/${{ github.sha }}
+          * Workflow: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          "
+          BOT_COMMIT_DESCRIPTION="${BOT_COMMIT_DESCRIPTION//'%'/'%25'}"
+          BOT_COMMIT_DESCRIPTION="${BOT_COMMIT_DESCRIPTION//$'\n'/'%0A'}"
+          BOT_COMMIT_DESCRIPTION="${BOT_COMMIT_DESCRIPTION//$'\r'/'%0D'}"
+          BOT_SHA="${GITHUB_SHA::7}"
+          
+          echo "::set-output name=message::$BOT_COMMIT_MESSAGE"
+          echo "::set-output name=description::$BOT_COMMIT_DESCRIPTION"
+          echo "::set-output name=sha::$BOT_SHA"
+      - uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GIT_TOKEN }}
+          commit-message: Sync parachain projects info to ${{ steps.outer.outputs.sha }}.
+          committer: Subscan UI GitHub Actions Bot <github-actions@subscan.io>
+          branch: sync/parachain-projects-info
+          path: subscan-ui
+          title: ${{ steps.outer.outputs.message }}
+          body: ${{ steps.outer.outputs.description }}
