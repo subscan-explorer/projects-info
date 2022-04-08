@@ -1,22 +1,22 @@
 {
-    "data": {
-        "Para ID": "2086",
-        "Project Name": "KILT Protocol",
-        "Logo": "../../assets/images/kilt.svg",
-        "Description (en)": "KILT is a blockchain protocol for issuing self-sovereign verifiable, revocable credentials in the Web 3.0.",
-        "Parachain Crowdloans Allocation (en)": "",
-        "Parachain Crowdloans Allocation (zh)": "",
-        "Auction Reward & Reward Vesting Schedule (en)": "",
-        "Auction Reward & Reward Vesting Schedule (zh)": "",
-        "Financing Information (en)": "",
-        "Financing Information (zh)": "",
-        "Website Link": "https://www.kilt.io/",
-        "Twitter Link": "https://twitter.com/Kiltprotocol",
-        "Telegram Link": "https://t.me/KILTProtocolChat",
-        "Discord Link": "",
-        "Medium Link": "https://kilt-protocol.medium.com/",
-        "Github Link": "https://github.com/KILTprotocol",
-        "Owner account": "DM5jFFrjW6TQWBBz7UAL7GssDVP94wGhhwLcJnHiY1EFfCY"
-    },
-    "signature": "0xf840bd6dd5608e89daa540fb91cdb42c799487aa3ee3527a9a4b0464cb9fdf0a4e8fa1e7d12d9760c53280038f4c4ea96fb441d5f5472cc9cb45f643d2df318c"
+  "data": {
+    "ParaID": "2086",
+    "Project Name": "KILT Protocol",
+    "Logo": "../../assets/images/kilt.svg",
+    "Description (en)": "KILT is a blockchain protocol for issuing self-sovereign verifiable, revocable credentials in the Web 3.0.",
+    "Parachain Crowdloans Allocation (en)": "",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://www.kilt.io/",
+    "Twitter Link": "https://twitter.com/Kiltprotocol",
+    "Telegram Link": "https://t.me/KILTProtocolChat",
+    "Discord Link": "",
+    "Medium Link": "https://kilt-protocol.medium.com/",
+    "Github Link": "https://github.com/KILTprotocol",
+    "Owner account": "DM5jFFrjW6TQWBBz7UAL7GssDVP94wGhhwLcJnHiY1EFfCY"
+  },
+  "signature": "0xf840bd6dd5608e89daa540fb91cdb42c799487aa3ee3527a9a4b0464cb9fdf0a4e8fa1e7d12d9760c53280038f4c4ea96fb441d5f5472cc9cb45f643d2df318c"
 }
