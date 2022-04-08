@@ -1,0 +1,24 @@
+{
+  "name": "@subscan/parachains-info",
+  "version": "2.1.0",
+  "description": "This package contains info of parachain projects used in Subscan parachain module based on @polkadot/apps-config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subscan-explorer/parachain-projects-info.git"
+  },
+  "keywords": [
+    "subscan",
+    "polkadot",
+    "parachain"
+  ],
+  "author": "vzxh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subscan-explorer/parachain-projects-info/issues"
+  },
+  "homepage": "https://github.com/subscan-explorer/parachain-projects-info#readme"
+}
