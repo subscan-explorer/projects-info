@@ -1,4 +1,4 @@
-const kusamaJsons = require.context("./networks/kusama", false, /\.json$/);
+const kusamaJsons = require.context("./networks/kusama/parachain", false, /\.json$/);
 const kusamaParachains = {};
 kusamaJsons.keys().forEach((k) => {
   const c = kusamaJsons(k);
@@ -14,7 +14,7 @@ kusamaJsons.keys().forEach((k) => {
   }
 });
 
-const polkadotJsons = require.context("./networks/polkadot", false, /\.json$/);
+const polkadotJsons = require.context("./networks/polkadot/parachain", false, /\.json$/);
 const polkadotParachains = {};
 polkadotJsons.keys().forEach((k) => {
   const c = polkadotJsons(k);
@@ -30,7 +30,7 @@ polkadotJsons.keys().forEach((k) => {
   }
 });
 
-const rococoJsons = require.context("./networks/rococo", false, /\.json$/);
+const rococoJsons = require.context("./networks/rococo/parachain", false, /\.json$/);
 const rococoParachains = {};
 rococoJsons.keys().forEach((k) => {
   const c = rococoJsons(k);
@@ -46,7 +46,7 @@ rococoJsons.keys().forEach((k) => {
   }
 });
 
-const westendJsons = require.context("./networks/westend", false, /\.json$/);
+const westendJsons = require.context("./networks/westend/parachain", false, /\.json$/);
 const westendParachains = {};
 westendJsons.keys().forEach((k) => {
   const c = westendJsons(k);
