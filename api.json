@@ -1,0 +1,8 @@
+{
+    "kusama": "https://kusama.api.subscan.io",
+    "polkadot": "https://polkadot.api.subscan.io",
+    "rococo": "https://rococo.api.subscan.io",
+    "westend": "https://westend.api.subscan.io",
+    "statemine": "https://statemine.api.subscan.io",
+    "statemint": "https://statemint.api.subscan.io"
+}
