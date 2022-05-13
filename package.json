@@ -4,6 +4,7 @@
   "description": "This package contains info of parachain projects used in Subscan parachain module based on @polkadot/apps-config.",
   "main": "index.js",
   "scripts": {
+    "publish": "npm version patch && npm publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
