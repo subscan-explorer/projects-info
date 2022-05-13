@@ -1,0 +1,23 @@
+{
+    "data": {
+        "ParaID": 2030,
+        "Project Name": "Bifrost",
+        "Logo": "../../assets/images/bifrost.svg",
+        "Description (en)": "Bifrost is a Web3 derivatives protocol that provides decentralized cross-chain liquidity for staked assets. By leveraging on the cross-consensus message (XCM) it can provide cross-chain liquid staking services for multiple chains.",
+        "Description (zh)": "Bifrost 是一个为 Staking 提供跨链流动性的 Web3 基础设施，通过跨链通信协议（XCMP）为多链提供去中心化、可跨链的 Liquid Staking 服务。",
+        "Parachain Crowdloans Allocation (en)": "https://medium.com/bifrost-finance/bifrost-to-open-polkadot-crowdloan-official-auction-on-april-22-78970d04853a",
+        "Parachain Crowdloans Allocation (zh)": "https://mp.weixin.qq.com/s/82RKQkrB_51KwiPnADLvdQ",
+        "Auction Reward & Reward Vesting Schedule (en)": "https://medium.com/bifrost-finance/bifrost-to-open-polkadot-crowdloan-official-auction-on-april-22-78970d04853a",
+        "Auction Reward & Reward Vesting Schedule (zh)": "https://medium.com/bifrost-finance/bifrost-to-open-polkadot-crowdloan-official-auction-on-april-22-78970d04853a",
+        "Financing Information (en)": "https://wiki.bifrost.finance/token/bifrost-tokenomics/allocation",
+        "Financing Information (zh)": "https://wiki.bifrost.finance/token/bifrost-tokenomics/allocation",
+        "Website Link": "https://bifrost.finance/",
+        "Twitter Link": "https://twitter.com/bifrost_finance",
+        "Telegram Link": "https://t.me/bifrost_finance",
+        "Discord Link": "https://discord.gg/8DRBw2h5X4",
+        "Medium Link": "https://medium.com/@bifrost_finance",
+        "Github Link": "https://github.com/bifrost-finance",
+        "Owner account": "GLiebiQp5f6G5vNcc7BgRE9T3hrZSYDwP6evERn3hEczdaM"
+    },
+    "signature": "0x6865273eab22ffce05b506ed118ef7d478882dcb739bbfe78fcb7f2f07ff7c10371980551ea7c4dc7ae97979c6dc491fbe3dc41626d092203276f639c6100787"
+}
