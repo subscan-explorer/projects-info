@@ -1,6 +1,7 @@
 const {cryptoWaitReady, decodeAddress, signatureVerify} = require('@polkadot/util-crypto');
 const {u8aToHex} = require('@polkadot/util');
-const actions = require('@actions/core')
+const actions = require('@actions/core');
+const nFetch = require('node-fetch')
 
 const {getOctokit, context} = require('@actions/github')
 
@@ -21,6 +22,39 @@ const tryIsValidSignatures = (signedMessages, signature, address) => {
     }
 
     return false
+}
+
+const rpcList: { [network: string]: string } = require('../../../api.json')
+const headers = {
+    'Content-Type': 'application/json',
+    'X-Api-Key': process.env.APIKEY
+}
+
+const isOwnerOfParachain = async (relay, owner, paraId) => {
+    const apiUrl = `${rpcList[relay]}/api/scan/parachain/info`
+    const body = JSON.stringify({
+        row: 1,
+        page: 0,
+        para_id: paraId
+    })
+
+    return (await nFetch(apiUrl, {
+        method: "post",
+        headers,
+        body
+    }).then(resp => resp.json()).then(data => {
+        if (data?.code === 0) {
+            return data
+        }
+        throw new Error(`response code ${data?.code} failed: ${data?.message}`)
+    }).then(data => data.data.chains).then(chains => {
+        for (const chain of chains) {
+            if (chain.para_id == paraId && chain.manager == owner) {
+                return chain
+            }
+        }
+        throw new Error('no para id detail')
+    }).catch(err => console.log(err)))?.para_id == paraId
 }
 
 const getPRContent = async (token: string, sha: string) => {
@@ -44,14 +78,13 @@ const re = /Para ID Owner & Signature Account:[\n\s]+`([a-zA-Z\d ]+)`[\n\s]+Data
 
 const main = async () => {
     const changes: string[] = actions.getInput('filenames').split(' ')
-    // const changes: string[] = ['networks/westend/test.json']
+    // const changes: string[] = ['networks/rococo/parachain/test.json']
     if (changes.length === 0) {
         return
     }
 
     const githubToken = actions.getInput('token')
     const sha = actions.getInput('sha')
-
     const pr = await getPRContent(githubToken, sha)
 
     const result = re.exec(pr.body)
@@ -73,20 +106,33 @@ const main = async () => {
             continue
         }
 
-        console.log('filename', file)
-
         // check signature
-        const body = fs.readFileSync(file, 'utf8')
+        const body: string = fs.readFileSync(__dirname + '/../../../' + file, 'utf8').toString()
         if (body.length === 0) {
             continue
         }
+        const detail = JSON.parse(body)
 
         // polkadot apps paste replace method
-        const secBody = body.replaceAll("\n", ' ')
+        const secBody = body.replace(/\n/g, ' ')
         const thirdBody = secBody.trim()
         if (!tryIsValidSignatures([body, secBody, thirdBody], signature, owner)) {
             actions.setFailed("the signature is not valid")
             verified = false
+        }
+
+        if (file.indexOf('/parachain/') !== -1) {
+            let [, relayChainName] = /networks\/([a-zA-Z]+)\/parachain\//.exec(file)
+            if (relayChainName.length === 0) {
+                actions.setFailed('can not get relayChain name')
+                verified = false
+            }
+
+            let {'data': {'ParaID': paraId}} = detail
+            if (!await isOwnerOfParachain(relayChainName, owner, paraId)) {
+                actions.setFailed('the Owner Account does not belong The paraId')
+                verified = false
+            }
         }
 
         break
