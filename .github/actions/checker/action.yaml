@@ -1,0 +1,43 @@
+name: "sign checker"
+description: "check sign"
+inputs:
+  sha:
+    required: true
+    description: PR SHA
+  token:
+    required: true
+    description: Github Token
+  filenames:
+    required: true
+    description: Changed Filenames
+outputs:
+  verified:
+    description: Verified Status
+    value: ${{ steps.executor.outputs.verified }}
+runs:
+  using: "composite"
+  steps:
+    - uses: actions/setup-node@v2
+    - uses: actions/cache@v3
+      id: cache-dist
+      with:
+        path: dist
+        key: ${{ hashFiles('**/**') }}
+    - run: |
+        bash -c "env | sort"
+        echo -------------
+      shell: bash
+    - run: |
+        cd ${{ github.action_path }}
+        if [[ ! -d dist ]]; then
+          npm install -g yarn
+          yarn && yarn build
+        fi;
+      shell: bash
+    - run: node ${{ github.action_path }}/dist/main.js
+      shell: bash
+      id: executor
+      env:
+        INPUT_SHA: ${{ inputs.sha }}
+        INPUT_TOKEN: ${{ inputs.token }}
+        INPUT_FILENAMES: ${{ inputs.filenames }}

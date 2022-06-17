@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outFile": "./dist/main.js",
+    "rootDir": "./",
+    "module" : "amd"
+  }
+}
