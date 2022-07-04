@@ -7,7 +7,7 @@
     "Description (zh)": "",
     "Parachain Crowdloans Allocation (en)": "https://invarch.network/tinkernet",
     "Parachain Crowdloans Allocation (zh)": "",
-    "Auction Reward & Reward Vesting Schedule (en)": "https://invarch.network/tinkernet,
+    "Auction Reward & Reward Vesting Schedule (en)": "https://invarch.network/tinkernet",
     "Auction Reward & Reward Vesting Schedule (zh)": "",
     "Financing Information (en)": "",
     "Financing Information (zh)": "",
@@ -19,5 +19,5 @@
     "Github Link": "https://github.com/invarch",
     "Owner account": "J6Vgp5wjxNeNyQWVmwXUbaaEjze6DCWuhmvp3Y8vgEfYKnv"
   },
-  "signature": "0x40774ef2c1c4dc9e638bbe56d86aab17a48a32a3d66a5e93031a2cd40424323e779e2fbbeb49be7ed1e7c8418f5f77bd90559fb461f6e9aac7083307e3a28784"
+  "signature": "0x4295b0588c11d37a308ab3847efd0217e946317e7604660282837cb82140f8612a2c231742a7b77b8e075e1334042839f27a4380f7cfe641992089e326820382"
 }
