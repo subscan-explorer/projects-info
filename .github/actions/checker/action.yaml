@@ -10,6 +10,9 @@ inputs:
   filenames:
     required: true
     description: Changed Filenames
+  subscanAPIKey:
+    required: true
+    description: Subscan API Key for verify owner
 outputs:
   verified:
     description: Verified Status
@@ -41,3 +44,4 @@ runs:
         INPUT_SHA: ${{ inputs.sha }}
         INPUT_TOKEN: ${{ inputs.token }}
         INPUT_FILENAMES: ${{ inputs.filenames }}
+        APIKEY: ${{ inputs.subscanAPIKey }}

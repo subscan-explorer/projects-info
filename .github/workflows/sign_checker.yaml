@@ -37,6 +37,7 @@ jobs:
           sha: ${{ github.event.pull_request.head.sha }}
           token: ${{ secrets.GITHUB_TOKEN }}
           filenames: ${{ steps.changed-files.outputs.all_changed_files }}
+          subscanAPIKey: ${{ secrets.SUBSCAN_APIKEY }}
       - uses: actions-ecosystem/action-remove-labels@v1
         if: always()
         with:
