@@ -3,7 +3,7 @@
     "target": "ES2015",
     "removeComments": true,
     "preserveConstEnums": true,
-    "outFile": "./dist/main.js",
+    "outFile": "./main.js",
     "rootDir": "./",
     "module" : "amd"
   }

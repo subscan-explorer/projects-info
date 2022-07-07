@@ -21,7 +21,7 @@ runs:
     - uses: actions/cache@v3
       id: cache-dist
       with:
-        path: dist
+        path: main.js
         key: ${{ hashFiles('**/**') }}
     - run: |
         bash -c "env | sort"
@@ -34,7 +34,7 @@ runs:
           yarn && yarn build
         fi;
       shell: bash
-    - run: node ${{ github.action_path }}/dist/main.js
+    - run: node ${{ github.action_path }}/main.js
       shell: bash
       id: executor
       env:
