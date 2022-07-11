@@ -4,6 +4,9 @@ inputs:
   sha:
     required: true
     description: PR SHA
+  prNum:
+    required: true
+    description: PR Number
   token:
     required: true
     description: Github Token
@@ -43,5 +46,6 @@ runs:
       env:
         INPUT_SHA: ${{ inputs.sha }}
         INPUT_TOKEN: ${{ inputs.token }}
+        INPUT_NUM: ${{ inputs.prNum }}
         INPUT_FILENAMES: ${{ inputs.filenames }}
         APIKEY: ${{ inputs.subscanAPIKey }}

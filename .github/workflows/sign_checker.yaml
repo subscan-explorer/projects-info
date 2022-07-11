@@ -31,6 +31,7 @@ jobs:
         id: signature
         with:
           sha: ${{ github.event.pull_request.head.sha }}
+          prNum: ${{ github.event.pull_request.number }}
           token: ${{ secrets.GITHUB_TOKEN }}
           filenames: ${{ steps.changed-files.outputs.all_changed_files }}
           subscanAPIKey: ${{ secrets.SUBSCAN_APIKEY }}

@@ -57,7 +57,7 @@ const isOwnerOfParachain = async (relay, owner, paraId) => {
     }).catch(err => console.log(err)))?.para_id == paraId
 }
 
-const getPRContent = async (token: string, sha: string) => {
+const getPRContentBySha = async (token: string, sha: string) => {
     const octKit = getOctokit(token)
     const result = await octKit.rest.repos.listPullRequestsAssociatedWithCommit({
         owner: context.repo.owner,
@@ -74,6 +74,16 @@ const getPRContent = async (token: string, sha: string) => {
     return pr
 }
 
+const getPRContentByNumber = async(token: string, num: number) => {
+    const octKit = getOctokit(token)
+    const { data: pullRequest } = await octKit.rest.pulls.get({
+        owner: context.repo.owner,
+        repo: context.repo.repo,
+        pull_number: num,
+    });
+    return pullRequest
+}
+
 const re = /Para ID Owner & Signature Account:[\n\s]+`([a-zA-Z\d ]+)`[\n\s]+Data that needs to be signed:[\n\s]+`file`[\n\s]+Signature Hash: `([0xa-zA-Z\d ]+)`/
 
 const main = async () => {
@@ -85,11 +95,17 @@ const main = async () => {
 
     const githubToken = actions.getInput('token')
     const sha = actions.getInput('sha')
-    const pr = await getPRContent(githubToken, sha)
+    const num = actions.getInput('num')
+    const pr = num ? await getPRContentByNumber(githubToken, num) : await getPRContentBySha(githubToken, sha)
+    console.log('pr', sha, num, pr)
+    if (!pr) {
+        actions.setFailed('get PR content failed')
+        return
+    }
 
     const result = re.exec(pr.body)
     if (!result || result.length !== 3) {
-        actions.setFailed('the PR Content is not expected')
+        actions.setFailed('the PR content is not expected')
         return
     }
 
