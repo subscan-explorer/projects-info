@@ -1,14 +1,14 @@
 {
   "data": {
-    "ParaID": 2003,
+    "ParaID": 2046,
     "Project Name": "darwinia",
     "Logo": "../../assets/images/darwinia.png",
-    "Description (en)": "Darwinia Network is a decentralized cross-chain bridge network building on Substrate, which is the 'Web 3.0 cross-chain bridge hub' of the cross-chain ecology.",
-    "Description (zh)": "Darwinia Network 是一个建立在 Substrate 上的去中心化跨链桥接网络，是跨链生态的 Web 3.0 跨链桥接枢纽",
-    "Parachain Crowdloans Allocation (en)": "https://darwinianetwork.medium.com/guide-to-participate-in-the-darwinia-plo-e14b1718787f",
+    "Description (en)": "Darwinia is a cross-chain messaging infrastructure. Darwinia provides a reliable and programmable cross-chain platform for decentralized applications. Darwinia provides developers with an SDK, and developers can easily integrate cross-chain capabilities into their Dapps.",
+    "Description (zh)": "Darwinia is a cross-chain messaging infrastructure. Darwinia provides a reliable and programmable cross-chain platform for decentralized applications. Darwinia provides developers with an SDK, and developers can easily integrate cross-chain capabilities into their Dapps.",
+    "Parachain Crowdloans Allocation (en)": "",
     "Parachain Crowdloans Allocation (zh)": "",
-    "Auction Reward & Reward Vesting Schedule (en)": "https://darwinianetwork.medium.com/support-darwinia-while-investing-in-the-next-generation-infrastructure-for-the-web3-0-metaverse-aaf3defb234a",
-    "Auction Reward & Reward Vesting Schedule (zh)": "https://mp.weixin.qq.com/s?__biz=MzU0Mzg4MjU2MA==&mid=2247496537&idx=1&sn=acc3adb2913[…]857d8c743f81b642ffd3ab9e280816152&token=133214717&lang=zh_CN",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
     "Financing Information (en)": "",
     "Financing Information (zh)": "",
     "Website Link": "https://darwinia.network/",
@@ -18,6 +18,5 @@
     "Medium Link": "https://medium.com/@DarwiniaNetwork",
     "Github Link": "https://github.com/darwinia-network",
     "Owner account": "1EdsnniYSKNjHNAvDgvBfRNzKnSzi6kgsHQFCG4PhAyyJWH"
-  },
-  "signature": "0xaa387f3a05d403e249c1692562824834fdfacc5031481fb5557151a527567d403bbf644289a531d531f626508c34b024c6eaa4d444d94e5af3812be6cfdd5c86"
+  }
 }
