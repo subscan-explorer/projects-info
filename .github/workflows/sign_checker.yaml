@@ -1,0 +1,51 @@
+name: "Check signature"
+on:
+  pull_request_target:
+    types: [opened, edited, synchronize, reopened]
+    paths:
+      - networks/**
+
+
+jobs:
+  check_pr:
+    permissions: write-all
+
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions-ecosystem/action-remove-labels@v1
+        with:
+          labels: |
+            Signature Verified
+            Signature Not-Verified
+      - uses: actions-ecosystem/action-add-labels@v1
+        with:
+          labels: Waiting Signature Verifier
+      - uses: actions/checkout@v2
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v18.4
+
+      - name: Check signature
+        uses: ./.github/actions/checker
+        if: success()
+        id: signature
+        with:
+          sha: ${{ github.event.pull_request.head.sha }}
+          prNum: ${{ github.event.pull_request.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filenames: ${{ steps.changed-files.outputs.all_changed_files }}
+          subscanAPIKey: ${{ secrets.SUBSCAN_APIKEY }}
+      - uses: actions-ecosystem/action-remove-labels@v1
+        if: always()
+        with:
+          labels: Waiting Signature Verifier
+      - name: Label when approved
+        uses: actions-ecosystem/action-add-labels@v1
+        if: success() && steps.signature.outputs.verified == 'true'
+        with:
+          labels: Signature Verified
+      - name: Label remove when disapproved
+        uses: actions-ecosystem/action-add-labels@v1
+        if: failure() || steps.signature.outputs.verified == 'false'
+        with:
+          labels: Signature Not-Verified
