@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": "2123",
+    "Project Name": "GM Parachain",
+    "Logo": "../../assets/images/gm.png",
+    "Description (en)": "The most necessary kusama parachain yet",
+    "Description (zh)": "",
+    "Parachain Crowdloans Allocation (en)": "https://www.gmordie.com/tokenomics.html",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://www.gmordie.com/crowdloan.html",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://www.gmordie.com",
+    "Twitter Link": "https://twitter.com/GmOrDie_",
+    "Telegram Link": "",
+    "Discord Link": "https://discord.gg/JFzD2b5P2B",
+    "Medium Link": "",
+    "Github Link": "https://github.com/GMorDIE",
+    "Owner account": "FohU9AY9aGpTownLc1u7kKdFeBYGyZqSd621UVgDNE6RQn4"
+  },
+  "signature": "0x9e7809029873c5ad363a030c13fc2a66ca2fed78401e93c3ce3839d1406f804857fd8dd9b79508374e59220a9b757df990282b21071452812a2fe2e3c9fd3789"
+}
