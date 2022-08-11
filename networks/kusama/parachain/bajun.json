@@ -1,0 +1,20 @@
+{
+  "data": {
+    "ParaID": "2119",
+    "Project Name": "Bajun Network",
+    "Logo": "../../assets/images/bajun.svg",
+    "Description (en)": "Bajun Network the Kusama parachain of Ajuna Network is a decentralized gaming platform that delivers real value to gamers, without compromising on gameplay.",
+    "Parachain Crowdloans Allocation (en)": "https://ajuna.io/crowdloan/",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://ajuna.io/crowdloan/",
+    "Financing Information (en)": "https://github.com/ajuna-network/techpaper/blob/main/Lightpaper/Ajuna%20Network%20Lightpaper.pdf",
+    "Financing Information (zh)": "",
+    "Website Link": "https://ajuna.io/",
+    "Twitter Link": "https://twitter.com/AjunaNetwork",
+    "Telegram Link": "https://t.me/ajunacommunity",
+    "Discord Link": "https://discord.com/invite/cE72GYcFgY",
+    "Medium Link": "https://medium.ajuna.io/",
+    "Github Link": "https://github.com/ajuna-network/",
+    "Owner account": "E3BajuRoG9Wv7RQW6s5vtqMZkLk2khDPjgzVXRwXdd913Uw"
+  },
+  "signature": "0x60716d5df33ce535c15e74c4391ecc938e0ce080c1a487ce6bae4305fb6a760c027cd545d2409242577bdedabb2472d41c87fa5658f9996372a4a740e023f683"
+}
