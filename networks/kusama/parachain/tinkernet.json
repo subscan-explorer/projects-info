@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": "2125",
+    "Project Name": "InvArch Tinkernet",
+    "Logo": "../../assets/images/tinkernet.png",
+    "Description (en)": "The IP Asset & Accelerated Development Hub Of Kusama",
+    "Description (zh)": "",
+    "Parachain Crowdloans Allocation (en)": "https://invarch.network/tinkernet",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://invarch.network/tinkernet",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://invarch.network/tinkernet",
+    "Twitter Link": "https://twitter.com/TinkerParachain",
+    "Telegram Link": "https://t.me/InvArch",
+    "Discord Link": "https://discord.gg/invarch",
+    "Medium Link": "https://invarch.medium.com/",
+    "Github Link": "https://github.com/invarch",
+    "Owner account": "J6Vgp5wjxNeNyQWVmwXUbaaEjze6DCWuhmvp3Y8vgEfYKnv"
+  },
+  "signature": "0x4295b0588c11d37a308ab3847efd0217e946317e7604660282837cb82140f8612a2c231742a7b77b8e075e1334042839f27a4380f7cfe641992089e326820382"
+}
