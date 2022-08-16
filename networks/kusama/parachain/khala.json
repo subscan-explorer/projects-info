@@ -3,12 +3,12 @@
     "ParaID": "2004",
     "Project Name": "Khala Network",
     "Logo": "../assets/images/khala.svg",
-    "Description (en)": "Khala Network is the Phala pre-mainnet on Kusama, as published on the roadmap last year: Phala will implement its mainnet on Polkadot, as the parachain to serve enterprise-scale blockchains and DeFi service. Khala will implement its mainnet on Kusama, as the parachain to serve creative and growth blockchains and DeFi service.",
-    "Description (zh)": "根据去年发布的发展愿景，Khala Network 现已发展成为了 Kusama 的 Phala 预主网：Phala 将部署其主网至 Polkadot，作为服务于企业级区块链和 DeFi 服务的平行链。Khala 将部署其主网至 Kusama，作为服务于创新型和增长型区块链和 DeFi 服务的平行链。",
+    "Description (en)": "Khala Network is the canary network of Phala Network launched on Kusama, which is responsible for the technical and economic testing of Phala Network. Khala and Phala have now been merged after Gemini Upgrade and share the same responsibility for the overall network operations, providing decentralized cloud computing capabilities.",
+    "Description (zh)": "Khala是Phala在Kusama上的金丝雀网络，它负责测试Phala的技术以及经济模型等内容。Khala和Phala在Gemini升级后现已合并，共同负责整个Phala网络的运营，提供去中心化的云计算能力。",
     "Parachain Crowdloans Allocation (en)": "https://medium.com/phala-network/even-more-rewards-coming-up-to-150-pha-per-ksm-and-new-special-edition-nfts-2598f96f555a",
-    "Parachain Crowdloans Allocation (zh)": "https://mp.weixin.qq.com/s/_aD43bKu4lAaJM6FiUbgvA",
+    "Parachain Crowdloans Allocation (zh)": "https://medium.com/phala-network/even-more-rewards-coming-up-to-150-pha-per-ksm-and-new-special-edition-nfts-2598f96f555a",
     "Auction Reward & Reward Vesting Schedule (en)": "https://medium.com/phala-network/phalas-kusama-slot-auction-strategy-34cb93e07f3a",
-    "Auction Reward & Reward Vesting Schedule (zh)": "https://mp.weixin.qq.com/s/1iaLE_8Q2LjlgUsxW6LtWA",
+    "Auction Reward & Reward Vesting Schedule (zh)": "https://medium.com/phala-network/phalas-kusama-slot-auction-strategy-34cb93e07f3a",
     "Financing Information (en)": "",
     "Financing Information (zh)": "",
     "Website Link": "https://phala.network/en/khala",
@@ -18,6 +18,5 @@
     "Medium Link": "https://medium.com/phala-network",
     "Github Link": "https://github.com/Phala-Network",
     "Owner account": "DaEJPYPCJQnKeHGfV6SSF8WPWtLg9zggbWwAwCZRWVPeWvv"
-  },
-  "signature": "0x942e5d1ad02fb33add4f3616d9aac664ba5ee770cf4ed0cd4774744af655bb3a4d6ed095dd1b70ae79371bbeff3a2f9375cefca68c5d45596a8c21a9aaea2a8f"
+  }
 }
