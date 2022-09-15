@@ -1,0 +1,21 @@
+{
+    "data": {
+      "ParaID": "2129",
+      "Project Name": "Snow Network",
+      "Logo": "../../assets/images/snow.svg",
+      "Description (en)": "❄️ SNOW is the canary network of ICE, an extension network of a layer one protocol called ICON",
+      "Parachain Crowdloans Allocation (en)": "https://icenetwork.io/blog/2022/snow-tokenomics/",
+      "Auction Reward & Reward Vesting Schedule (en)": "https://icenetwork.io/blog/2022/snow-crowdloan-rewards-2129/",
+      "Financing Information (en)": "https://icenetwork.io/blog/2022/snow-tokenomics/",
+      "Financing Information (zh)": "",
+      "Website Link": "https://icenetwork.io/snow/",
+      "Twitter Link": "https://twitter.com/icenetwork_io",
+      "Telegram Link": "https://t.me/ICONOsphereio",
+      "Discord Link": "https://discord.gg/chDPKCM3eR",
+      "Medium Link": "https://iconosphereio.medium.com",
+      "Github Link": "https://github.com/web3labs/ice-substrate",
+      "Owner account": "CiYq7eYRvbmKNpeiBrhnua5cvU8MGWnEiovDWCsod2VLvxE"
+    },
+    "signature": "0x3c2e13dd673ef796fe8e9b5d48b7738723648ba51bf405ad5a545811364e8928fd9d5e0084d977b8c6513456d89cc2fe1f99c769cce2aa9e6fd1afaa50c60786"
+  }
+  
