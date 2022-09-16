@@ -1,0 +1,22 @@
+{
+    "data": {
+        "ParaID": 2124,
+        "Project Name": "Amplitude",
+        "Logo": "../../assets/images/amplitude.png",
+        "Description (en)": "Amplitude is going to launch as a canary network of its sister blockchain Pendulum. It will act as a testing ground for applications and network parameters for Pendulum. Unlike a traditional testnet, users can interact on the Amplitude chain with real financial consequences. Lots of novel ways of utilizing fiat on DeFi can be experimented with. Amplitude chain will be powered by its native AMPE token.",
+        "Description (zh)": "",
+        "Parachain Crowdloans Allocation (en)": "https://medium.com/pendulum-chain/amplitude-ampe-tokenomics-2063d3bafde0",
+        "Auction Reward & Reward Vesting Schedule (en)": "https://medium.com/pendulum-chain/amplitude-ampe-tokenomics-2063d3bafde0",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://pendulumchain.org/amplitude",
+        "Twitter Link": "https://twitter.com/amplitude_chain",
+        "Telegram Link": "https://t.me/pendulum_chain",
+        "Discord Link": "https://discord.com/invite/wJ2fQh776B",
+        "Medium Link": "https://pendulum-chain.medium.com/",
+        "Github Link": "https://github.com/pendulum-chain",
+        "Owner account": "H4s8DEUCE1n6iRLQ2YP8XpYVst7pDkNVpQqJ1YFHfDRopXP"
+    },
+    "signature": "0x7cd4a5f07f5b79ccd682b4c07db3d4d708ab7b4590c400bf0750df91ea7fb215d384a494d4bb0cee121346bca9c447308a84cf340ab5fb2d6603cd02570adb84"
+}
+  
