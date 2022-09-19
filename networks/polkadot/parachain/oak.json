@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": "2090",
+    "Project Name": "OAK Network",
+    "Logo": "../../assets/images/oak.svg",
+    "Description (en)": "OAK Network is is Web3’s hub for cross-chain automation, enabling multi-chain apps to schedule and automate any substrate extrinsic or EVM smart contract function.",
+    "Description (zh)": "",
+    "Parachain Crowdloans Allocation (en)": "https://oak.tech/oak/token/",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://oak.tech/oak/reward/",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "https://medium.com/oak-blockchain/oak-network-raises-a-5-5m-seed-round-from-foundation-capital-greylock-and-hypersphere-ventures-6c957f1c1ab",
+    "Financing Information (zh)": "",
+    "Website Link": "https://oak.tech/oak/home/",
+    "Twitter Link": "https://twitter.com/oak_network",
+    "Telegram Link": "https://t.me/OAK_Announcements",
+    "Discord Link": "https://discord.gg/7W9UDvsbwh",
+    "Medium Link": "https://medium.com/oak-blockchain",
+    "Github Link": "https://github.com/OAK-Foundation/",
+    "Owner account": "124TU2Mp6wZvbr3mQoyq6fi7zRrC8nP31PT3SUNBZScning3"
+  },
+  "signature": "tbd"
+}
