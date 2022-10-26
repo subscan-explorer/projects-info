@@ -1,0 +1,23 @@
+{
+    "data": {
+        "ParaID": 2056,
+        "Project Name": "aventus",
+        "Logo": "../../assets/images/aventus_logo.svg",
+        "Description (en)": "Aventus is a scalable, interoperable and carbon-neutral enterprise-grade blockchain that makes building on Polkadot, Ethereum and beyond accessible for companies in any ecosystem.",
+        "Description (zh)": "Aventus is a scalable, interoperable and carbon-neutral enterprise-grade blockchain that makes building on Polkadot, Ethereum and beyond accessible for companies in any ecosystem.",
+        "Parachain Crowdloans Allocation (en)": "https://parachains.info/details/aventus_network",
+        "Parachain Crowdloans Allocation (zh)": "",
+        "Auction Reward & Reward Vesting Schedule (en)": "",
+        "Auction Reward & Reward Vesting Schedule (zh)": "",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://www.aventus.io/",
+        "Twitter Link": "https://twitter.com/aventusnetwork",
+        "Telegram Link": "https://t.me/Aventus_Official",
+        "Discord Link": "https://discord.gg/Q4MmEfdjMp",
+        "Medium Link": "https://medium.com/aventus",
+        "Github Link": "https://github.com/Aventus-Network-Services",
+        "Owner account": "16HqymHVxdLtK8jtbur7DusQrfLAVEJZfsQijfxVwhQHiTgU"
+    },
+    "signature": "0x002a8b496de6f2ccb3a69ebadc2ae50db86cab85b9b6895b797700fffea3c175cc9851a19f522de54091c3e8d7398bceeaf8bcfe207791f0a561e00fd2cb6385"
+}
