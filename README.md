@@ -23,6 +23,8 @@ Welcome to pr to update your `project information`.
 
 ## How to start
 
+Here is a [pr example](https://github.com/subscan-explorer/projects-info/pull/58) for your reference.
+
 > If you want to request new project info, You need to prepare these files:
 
 1. description file (\<network\>.json)
