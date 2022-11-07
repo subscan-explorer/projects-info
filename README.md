@@ -46,28 +46,6 @@ Here is a [pr example](https://github.com/subscan-explorer/projects-info/pull/58
 
 Here is a [template.json](https://github.com/subscan-explorer/projects-info/blob/main/networks/polkadot/parachain/template.json) you can refer to, don't worry about indentation and spaces, you just need to make sure it's in valid JSON format
 
-```json
-{
-  "data": {
-    "ParaID": 2000,
-    "Project Name": "",
-    "Logo": "../../assets/images/[logo file name]",
-    "Cover": "../../assets/images/[cover file name]",
-    "Description (en)": "",
-    "Description (zh)": "",
-    "Auction Reward & Reward Vesting Schedule (en)": "<LEAVE HERE A LINK OR EMPTY>",
-    "Auction Reward & Reward Vesting Schedule (zh)": "<LEAVE HERE A LINK OR EMPTY>",
-    "Website Link": "<LEAVE HERE A LINK OR EMPTY>",
-    "Twitter Link": "<LEAVE HERE A LINK OR EMPTY>",
-    "Telegram Link": "<LEAVE HERE A LINK OR EMPTY>",
-    "Discord Link": "<LEAVE HERE A LINK OR EMPTY>",
-    "Medium Link": "<LEAVE HERE A LINK OR EMPTY>",
-    "Github Link": "<LEAVE HERE A LINK OR EMPTY>",
-    "Owner account": ""
-  }
-}
-```
-
 ## Why the Signature Checker report **Not-Verified**
 
 1. Make sure you haven't changed other formats except for angle brackets(\<\>) and included words
