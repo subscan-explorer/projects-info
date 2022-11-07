@@ -1,0 +1,21 @@
+{
+    "data": {
+        "ParaID": 2229,
+        "Project Name": "Crab Slot Placeholder",
+        "Logo": "../../assets/images/crab.svg",
+        "Description (en)": "Crab is a canary network with real economics for Darwinia",
+        "Description (zh)": "Crab 对于 Darwinia 来说是一个具有真实经济价值的金丝雀网络",
+        "Parachain Crowdloans Allocation (en)": "",
+        "Auction Reward & Reward Vesting Schedule (en)": "",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https://crab.network/",
+        "Twitter Link": "https://twitter.com/DarwiniaNetwork",
+        "Telegram Link": "https://t.me/DarwiniaNetwork",
+        "Discord Link": "https://discord.gg/KSJGA29Xz5",
+        "Medium Link": "https://medium.com/@DarwiniaNetwork",
+        "Github Link": "https://github.com/darwinia-network",
+        "Owner account": "CoxPmsXK24q3QB6jHSxwTxEHJ5375Mo4kPfUZYfKQMxXqZ9"
+    },
+    "signature": "0xb475caae384d6204328badaa0e94b053f1f4cedb6d19b9c8812bcb7d2450865773a23793a8bd91ed016d58b1adea7f7d9c1313213a06e44a0568e2fe32ca938a"
+}
