@@ -1,22 +1,38 @@
 {
-    "data": {
-        "ParaID": 2227,
-        "Project Name": "RioDeFi",
-        "Logo": "../../assets/images/rio-defi.png",
-        "Description (en)": "RioDeFi accelerates the mass adoption of digital assets by bridging traditional and decentralized finance. Our vision is a world in which everyone has access to decentralized financial (DeFi) services. We develop solutions that connect banking institutions with blockchain systems. Our applications enable lower transaction fees, faster confirmations, more efficiency, better returns for savings account holders, and global reach.",
-        "Description (zh)": "RioDeFi accelerates the mass adoption of digital assets by bridging traditional and decentralized finance. Our vision is a world in which everyone has access to decentralized financial (DeFi) services. We develop solutions that connect banking institutions with blockchain systems. Our applications enable lower transaction fees, faster confirmations, more efficiency, better returns for savings account holders, and global reach.",
-        "Parachain Crowdloans Allocation (en)": "",
-        "Parachain Crowdloans Allocation (zh)": "",
-        "Auction Reward & Reward Vesting Schedule (en)": "",
-        "Auction Reward & Reward Vesting Schedule (zh)": "",
-        "Financing Information (en)": "",
-        "Financing Information (zh)": "",
-        "Website Link": "https://riodefi.com",
-        "Twitter Link": "https://twitter.com/riodefiofficial",
-        "Telegram Link": "https://t.me/riodefiofficial",
-        "Medium Link": "https://medium.com/@riodefiofficial",
-        "Github Link": "https://github.com/RioDefi",
-        "Owner account": "EAw94PRmCVtwCH2RKLLNjBvvJNj7JtjrM8KL3awD42WZXJ1"
-    },
+  "data": {
+    "ParaID": 2227,
+
+    "Project Name": "RioDeFi",
+
+    "Logo": "../../assets/images/rio-defi.png",
+
+    "Description (en)": "RioDeFi accelerates the mass adoption of digital assets by bridging traditional and decentralized finance. Our vision is a world in which everyone has access to decentralized financial (DeFi) services. We develop solutions that connect banking institutions with blockchain systems. Our applications enable lower transaction fees, faster confirmations, more efficiency, better returns for savings account holders, and global reach.",
+
+    "Description (zh)": "RioDeFi accelerates the mass adoption of digital assets by bridging traditional and decentralized finance. Our vision is a world in which everyone has access to decentralized financial (DeFi) services. We develop solutions that connect banking institutions with blockchain systems. Our applications enable lower transaction fees, faster confirmations, more efficiency, better returns for savings account holders, and global reach.",
+
+    "Parachain Crowdloans Allocation (en)": "",
+
+    "Parachain Crowdloans Allocation (zh)": "",
+
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+
+    "Financing Information (en)": "",
+
+    "Financing Information (zh)": "",
+
+    "Website Link": "https://riodefi.com",
+
+    "Twitter Link": "https://twitter.com/riodefiofficial",
+
+    "Telegram Link": "https://t.me/riodefiofficial",
+
+    "Medium Link": "https://medium.com/@riodefiofficial",
+
+    "Github Link": "https://github.com/RioDefi",
+
+    "Owner account": "EAw94PRmCVtwCH2RKLLNjBvvJNj7JtjrM8KL3awD42WZXJ1"
+  },
     "signature": "0xcaf311aa88d136566bcd7c0a2e39210b10178e67117bfbf9109067a308cbac7c39947abe64cc079aa31da7f376ddf62f180190a1134673292a2d2ca5f0fc8583"
 }
