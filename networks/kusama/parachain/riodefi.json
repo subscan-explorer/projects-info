@@ -1,22 +1,38 @@
 {
   "data": {
     "ParaID": 2227,
+
     "Project Name": "RioDeFi",
+
     "Logo": "../../assets/images/rio-defi.png",
+
     "Description (en)": "RioDeFi accelerates the mass adoption of digital assets by bridging traditional and decentralized finance. Our vision is a world in which everyone has access to decentralized financial (DeFi) services. We develop solutions that connect banking institutions with blockchain systems. Our applications enable lower transaction fees, faster confirmations, more efficiency, better returns for savings account holders, and global reach.",
+
     "Description (zh)": "RioDeFi accelerates the mass adoption of digital assets by bridging traditional and decentralized finance. Our vision is a world in which everyone has access to decentralized financial (DeFi) services. We develop solutions that connect banking institutions with blockchain systems. Our applications enable lower transaction fees, faster confirmations, more efficiency, better returns for savings account holders, and global reach.",
+
     "Parachain Crowdloans Allocation (en)": "",
+
     "Parachain Crowdloans Allocation (zh)": "",
+
     "Auction Reward & Reward Vesting Schedule (en)": "",
+
     "Auction Reward & Reward Vesting Schedule (zh)": "",
+
     "Financing Information (en)": "",
+
     "Financing Information (zh)": "",
+
     "Website Link": "https://riodefi.com",
+
     "Twitter Link": "https://twitter.com/riodefiofficial",
+
     "Telegram Link": "https://t.me/riodefiofficial",
+
     "Medium Link": "https://medium.com/@riodefiofficial",
+
     "Github Link": "https://github.com/RioDefi",
+
     "Owner account": "EAw94PRmCVtwCH2RKLLNjBvvJNj7JtjrM8KL3awD42WZXJ1"
   },
-    "signature": "0x3e9eec78163190f253cebf4b0f106e86f1ce6726c7f2238d0f436a268d0188525822ad77cdb6b79736af38968081b4974e1c75cc31827d18346bd43ac6e8f689"
+    "signature": "0xd097a5e276931d885e966fccdbd212f88a72f8dd9adbaf27aeb44d76d8ee9c0a9ff261f7b07c416cc8a0f35d5401e7eaaeaee0e0ed8b4ba5bc9111133916128a"
 }
