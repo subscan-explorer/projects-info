@@ -1,7 +1,7 @@
 {
     "data": {
         "ParaID": 2056,
-        "Project Name": "aventus",
+        "Project Name": "Aventus",
         "Logo": "../../assets/images/aventus_logo.svg",
         "Description (en)": "Aventus is a scalable, interoperable and carbon-neutral enterprise-grade blockchain that makes building on Polkadot, Ethereum and beyond accessible for companies in any ecosystem.",
         "Description (zh)": "Aventus is a scalable, interoperable and carbon-neutral enterprise-grade blockchain that makes building on Polkadot, Ethereum and beyond accessible for companies in any ecosystem.",
@@ -19,5 +19,5 @@
         "Github Link": "https://github.com/Aventus-Network-Services",
         "Owner account": "16HqymHVxdLtK8jtbur7DusQrfLAVEJZfsQijfxVwhQHiTgU"
     },
-    "signature": "0xb4c04b1a0c855d0bd6ba92fbaf8c3cec634432479c8a0592d5f671e1b74470328869eeea374dcdeccbb8aef2bc689ccf3ed782f6ea1243fcfc747b3a070b3183"
+    "signature": "0x0e729cbcd94b079f91dcd7cd07033196fe3fcbee883dc9414d88e5e62c6691081795121766e2932e14b9522d68cf590c52291e3968a57cea1bbbbc17e1626d85"
 }
