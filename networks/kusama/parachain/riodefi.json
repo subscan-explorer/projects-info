@@ -1,38 +1,21 @@
 {
   "data": {
-    "ParaID": 2227,
-
+    "ParaID": "2227",
     "Project Name": "RioDeFi",
-
     "Logo": "../../assets/images/rio-defi.png",
-
     "Description (en)": "RioDeFi accelerates the mass adoption of digital assets by bridging traditional and decentralized finance. Our vision is a world in which everyone has access to decentralized financial (DeFi) services. We develop solutions that connect banking institutions with blockchain systems. Our applications enable lower transaction fees, faster confirmations, more efficiency, better returns for savings account holders, and global reach.",
-
-    "Description (zh)": "RioDeFi accelerates the mass adoption of digital assets by bridging traditional and decentralized finance. Our vision is a world in which everyone has access to decentralized financial (DeFi) services. We develop solutions that connect banking institutions with blockchain systems. Our applications enable lower transaction fees, faster confirmations, more efficiency, better returns for savings account holders, and global reach.",
-
+    "Description (zh)": "",
     "Parachain Crowdloans Allocation (en)": "",
-
-    "Parachain Crowdloans Allocation (zh)": "",
-
     "Auction Reward & Reward Vesting Schedule (en)": "",
-
-    "Auction Reward & Reward Vesting Schedule (zh)": "",
-
     "Financing Information (en)": "",
-
     "Financing Information (zh)": "",
-
     "Website Link": "https://riodefi.com",
-
     "Twitter Link": "https://twitter.com/riodefiofficial",
-
     "Telegram Link": "https://t.me/riodefiofficial",
-
+    "Discord Link": "",
     "Medium Link": "https://medium.com/@riodefiofficial",
-
     "Github Link": "https://github.com/RioDefi",
-
     "Owner account": "EAw94PRmCVtwCH2RKLLNjBvvJNj7JtjrM8KL3awD42WZXJ1"
   },
-    "signature": "0x72872e312ee21a7c1fda0f87d073d6fc22ef62e806d1d365cbf28e41ebf05456c01b76e56145cbd00184caa609ee5d6dbbec31ac0fb996c2f14c249c4e801c80"
+  "signature": "0x12839afcef5bfb4e4e9c9fc587522c9bb014a1a3544b4d7fff86a658e8ab210520c7494e4839bfdecf26f622bc8bb045059aa08e05505c8c4036f8f9d946e48e"
 }
