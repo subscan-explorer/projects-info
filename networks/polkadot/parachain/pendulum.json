@@ -1,0 +1,20 @@
+{
+  "data": {
+    "ParaID": 2094,
+    "Project Name": "Pendulum",
+    "Logo": "../../assets/images/pendulum.svg",
+    "Cover": "",
+    "Description (en)": "Pendulum is an open-source blockchain that aims to establish the missing link between the fiat and the DeFi ecosystems through a fiat-optimized smart contract blockchain. Pendulum is built with Substrate and will allow connecting DeFi applications to the foreign exchange market, building automated market makers (AMMs) to introduce scalable liquidity pools for fiat currencies, and create yield earning opportunities for fiat token holders.",
+    "Description (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Website Link": "http://pendulumchain.org/",
+    "Twitter Link": "https://twitter.com/pendulum_chain",
+    "Telegram Link": "https://t.me/pendulum_community",
+    "Discord Link": "https://discord.com/invite/wJ2fQh776B",
+    "Medium Link": "https://pendulum-chain.medium.com/",
+    "Github Link": "https://github.com/pendulum-chain/pendulum",
+    "Owner account": "12rgGkphjoZ25FubPoxywaNm3oVhSHnzExnT6hsLnicuLaaj"
+  },
+  "signature": "0xa0f5eebe0548eface639341b78dad51101bdbdc0c0bf74812950d931adde1049473b3e280bef5c5726629954730f41dcde44b8d9b14ee574706058e6814fb987"
+}
