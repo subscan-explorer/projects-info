@@ -41,6 +41,7 @@ Here is a [pr example](https://github.com/subscan-explorer/projects-info/pull/58
 4. make a pull request to our repo, and replace placeholders of `Para ID Owner & Signature Account` and `Signature Hash` of `Signature Auto check` by the Owner account and Signature
 5. check all of the checklist
 6. done, now you can create and wait for the Signature Checker to pass your request, and our team will double-check and confirm your request
+7. after pr is merged, we will release new version (usually in one or two days), and project info will be updated on Subscan.
 
 ## How to make a description file
 

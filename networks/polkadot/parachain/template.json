@@ -2,6 +2,7 @@
     "data": {
       "ParaID": 2000,
       "Project Name": "",
+      "SS58 Prefix": "",
       "Logo": "../../assets/images/[logo file name]",
       "Cover": "../../assets/images/[cover file name]",
       "Description (en)": "",
