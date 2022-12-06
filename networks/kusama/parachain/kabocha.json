@@ -3,7 +3,7 @@
     "ParaID": "2113",
     "Project Name": "Kabocha (KSM parachain)",
     "Logo": "../../assets/images/kabocha.svg",
-    "Description (en)": "Kabocha is an emergent organism of on-chain orgs",
+    "Description (en)": "Kabocha is an emergent organism of collectives.",
     "Parachain Crowdloans Allocation (en)": "",
     "Parachain Crowdloans Allocation (zh)": "",
     "Auction Reward & Reward Vesting Schedule (en)": "",
@@ -18,5 +18,5 @@
     "Github Link": "https://github.com/kabocha-network",
     "Owner account": "5EXVc6jXHvhSyUj4iwsoEtfnDDawRDuD3Fe7GXACsmTYtxik"
   },
-  "signature": "0xe69eb8856c491da7e071084a1920dffcc6193320d969edbf57f797851fb4b707b72a37dd205798e6f85188b312df956578cc09211e0a23ea3e1db037a12e0f88"
+  "signature": "0x9213efc8a521a591da466f470ff24834753e009200ee93303d637b6256e4f355a35d1e35d474b6ce691409a2ce399ecb4cd3c8ecac161264b22e96aeda1c4c8d"
 }
