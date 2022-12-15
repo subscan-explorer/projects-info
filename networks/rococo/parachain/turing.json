@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": "2114",
+    "Project Name": "Turing Staging",
+    "Logo": "../../assets/images/turing.png",
+    "Description (en)": "Turing Staging is the Rococo testnet of Turing Network, a unique blockchain for Defi and payment automation.",
+    "Description (zh)": "Turing Staging是Turning Network在Rococo上的测试网络，是一条专为Defi和支付支付自动化打造的独一无二的区块链。",
+    "Parachain Crowdloans Allocation (en)": "",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://oak.tech/turing/home/",
+    "Twitter Link": "https://twitter.com/oak_network",
+    "Telegram Link": "https://t.me/OAK_Announcements",
+    "Discord Link": "https://discord.gg/7W9UDvsbwh",
+    "Medium Link": "https://medium.com/oak-blockchain",
+    "Github Link": "https://github.com/OAK-Foundation/OAK-blockchain",
+    "Owner account": "5DwBmEFPXRESyEam5SsQF1zbWSCn2kCjyLW51hJHXe9vW4xs"
+  },
+  "signature": "0x08bf6b9fd13346a386c1b65b784069127216d79c54fdd23a684bc18521702d08b6a747ea2a9ccd0d0044374ef1f5bce5540ea5c0454c13a359544aa40af63786"
+}
