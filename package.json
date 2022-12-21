@@ -1,6 +1,6 @@
 {
   "name": "@subscan/parachains-info",
-  "version": "2.1.39",
+  "version": "2.1.40",
   "description": "This package contains info of parachain projects used in Subscan parachain module based on @polkadot/apps-config.",
   "main": "index.js",
   "scripts": {
