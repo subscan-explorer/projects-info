@@ -1,0 +1,20 @@
+{
+    "data": {
+      "ParaID": 2023,
+      "Project Name": "Moonriver",
+      "SS58 Prefix": "1285",
+      "Logo": "../../assets/images/moonriver.png",
+      "Cover": "",
+      "Description (en)": "Moonriver is a fully Ethereum-compatible L1 on Kusama that mirrors Ethereum’s Web3 RPC, accounts, keys, subscriptions, logs, and more. Moonriver, a sister chain to Moonbeam, extends the base Ethereum feature set with additional features such as on-chain governance, staking, and specialized precompiles.",
+      "Description (zh)": "Moonriver是Kusama上完全兼容以太坊的 L1，它有与以太坊一样的Web3 RPC、账户、密钥、订阅、日志等。Moonriver是Moonbeam的姊妹链，它扩展了以太坊的基本功能集，并增加了链上治理、质押和专门的预编译等附加功能。",
+      "Auction Reward & Reward Vesting Schedule (en)": "https://moonbeam.foundation/moonriver-token/",
+      "Auction Reward & Reward Vesting Schedule (zh)": "https://moonbeam.foundation/zh/moonriver-token/",
+      "Website Link": "https://moonbeam.network/networks/moonriver/",
+      "Twitter Link": "https://twitter.com/MoonriverNW",
+      "Telegram Link": "https://t.me/Moonbeam_Official",
+      "Discord Link": "https://discord.com/invite/PfpUATX",
+      "Medium Link": "https://medium.com/moonbeam-network",
+      "Github Link": "https://github.com/PureStake/moonbeam",
+      "Owner account": "FFuCbRwsDTkj1cc2w6dvBmXvumyoZR6QgfAv1LwL3kBgmbX"
+    }
+}
