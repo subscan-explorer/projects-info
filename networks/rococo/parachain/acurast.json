@@ -1,6 +1,6 @@
 {
   "data": {
-    "ParaID": "4191",
+    "ParaID": "2239",
     "Project Name": "Acurast",
     "SS58 Prefix": "42",
     "Logo": "../../assets/images/acurast.png",
@@ -16,5 +16,5 @@
     "Github Link": "https://github.com/Acurast",
     "Owner account": "5FR5q2cEyK2aquPwrJJmVahwpV5AhBgSFtRxxeXtYHkraiMZ"
   },
-  "signature": "0xde464305e38eb7ab8f4bb1d7050f22a0102b8093bee9a8eef094177f5cc47401de9cde4171c3e46b61f2b81ad253f88c7067364cf15cca5f4f1f6b65ff8e7e85"
+  "signature": "0x7ae7004918187c2c876bda8e4e533cd0dbbedb4a9909e87394e640f454bf69099391cda739af8c458903676aabfd11f8b4b0f456b24ac2f65f5b7bf0bac46588"
 }
