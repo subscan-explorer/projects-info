@@ -1,0 +1,20 @@
+{
+  "data": {
+    "ParaID": "2239",
+    "Project Name": "Acurast",
+    "SS58 Prefix": "42",
+    "Logo": "../../assets/images/acurast.png",
+    "Description (en)": "Acurast canary network. The Universe in Web3 — Data Delivered on Demand. Acurast has reimagined the concept of bringing off-chain data on-chain, creating a platform where developers can access real world data within their applications through a streamlined marketplace with the advantages of trusted execution environments.",
+    "Description (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Website Link": "https://acurast.com",
+    "Twitter Link": "http://twitter.com/Acurast",
+    "Telegram Link": "https://t.me/acurastnetwork",
+    "Discord Link": "https://discord.gg/wqgC6b6aKe",
+    "Medium Link": "https://acurast.medium.com",
+    "Github Link": "https://github.com/Acurast",
+    "Owner account": "J9qmDHLVv4duLyf5x19NfgSwqYzEv1BAwYG9XMrM6VLrMHS"
+  },
+  "signature": "0xec92468631ac7a922f7c0e8fea892ceb0769bf0854a7a983f250477212acd129bef98ec23f1645b7b634fb15ed926f1e1b8cf25bc6502d8457caa7e87b148a8a"
+}
