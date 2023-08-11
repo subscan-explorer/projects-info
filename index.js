@@ -61,10 +61,11 @@ westendJsons.keys().forEach((k) => {
     } catch {}
   }
 });
-
-export const parachainInfos = {
-  kusama: kusamaParachains,
-  polkadot: polkadotParachains,
-  rococo: rococoParachains,
-  westend: westendParachains,
-};
+module.exports = {
+  parachainInfos: {
+     kusama: kusamaParachains,
+     polkadot: polkadotParachains,
+     rococo: rococoParachains,
+     westend: westendParachains,
+  }
+}

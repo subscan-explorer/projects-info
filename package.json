@@ -2,8 +2,9 @@
   "name": "@subscan/parachains-info",
   "version": "2.1.42",
   "description": "This package contains info of parachain projects used in Subscan parachain module based on @polkadot/apps-config.",
-  "main": "index.js",
+  "main": "dist/main.js",
   "scripts": {
+    "build": "npx webpack",
     "pub": "npm version patch && npm publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/subscan-explorer/parachain-projects-info/issues"
   },
-  "homepage": "https://github.com/subscan-explorer/parachain-projects-info#readme"
+  "homepage": "https://github.com/subscan-explorer/parachain-projects-info#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
 }
