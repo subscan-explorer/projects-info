@@ -1,0 +1,20 @@
+{
+    "data": {
+      "ParaID": 2087,
+      "Project Name": "Picasso",
+      "SS58 Prefix": "49",
+      "Logo": "../../assets/images/picasso.png",
+      "Cover": "",
+      "Description (en)": "Picasso is the first IBC-enabled CosmWasm parachain pioneering interoperable DeFi solutions.",
+      "Description (zh)": "Picasso 是第一个支持 IBC 的 CosmWasm 平行链，开创了可互操作的 DeFi 解决方案",
+      "Auction Reward & Reward Vesting Schedule (en)": "https://docs.composable.finance/networks/picasso/crowdloan",
+      "Auction Reward & Reward Vesting Schedule (zh)": "https://docs.composable.finance/networks/picasso/crowdloan",
+      "Website Link": "https://picasso.xyz/",
+      "Twitter Link": "https://twitter.com/picasso_network",
+      "Telegram Link": "https://t.me/composable_chat",
+      "Discord Link": "https://discord.com/invite/composable",
+      "Medium Link": "https://composablefi.medium.com/",
+      "Github Link": "https://github.com/ComposableFi/composable",
+      "Owner account": "J93MdZPvP1RnQj5va1TaqZNm45t4zvvVEhFJ4MChyerR95b"
+    }
+}
