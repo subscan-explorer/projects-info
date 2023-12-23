@@ -1,0 +1,20 @@
+{
+    "data": {
+      "ParaID": 3339,
+      "Project Name": "Curio",
+      "SS58 Prefix": "",
+      "Logo": "../../assets/images/curio.png",
+      "Cover": "",
+      "Description (en)": "Hybrid real-world asset tokenization system. The Curio network provides real-world asset tokenization functionality in the Kusama/Polkadot ecosystem and brings dApps by CurioDAO such as Real-world Assets Tokenization Launchpad, Capital DEX (AMM DEX), RollApp NFT Launchpad, Curio StableCoin Protocol with Governance.",
+      "Description (zh)": "混合實境世界資產代幣化系統。 Curio 網路在Kusama/Polkadot 生態系統中提供現實世界資產代幣化功能，並帶來CurioDAO 的dApp，例如現實世界資產代幣化Launchpad、Capital DEX (AMM DEX)、RollApp NFT Launchpad、Curio StableCoin Protocol with Governance 。",
+      "Auction Reward & Reward Vesting Schedule (en)": "",
+      "Auction Reward & Reward Vesting Schedule (zh)": "",
+      "Website Link": "https://curioinvest.com",
+      "Twitter Link": "https://twitter.com/curio_invest",
+      "Telegram Link": "https://t.me/CurioInvestCommunity",
+      "Discord Link": "https://discord.com/invite/VSvY6tBF4g",
+      "Medium Link": "https://investcurio.medium.com",
+      "Github Link": "https://github.com/CurioTeam",
+      "Owner account": "CiSReoYxqeis6fLvmG1eRJYdaXGREi8qH9tq2GTLP96ig1f"
+    }
+}
