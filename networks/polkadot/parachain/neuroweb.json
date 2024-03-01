@@ -1,0 +1,23 @@
+{
+  "data": {
+    "ParaID": 2043,
+    "Project Name": "NeuroWeb",
+    "Logo": "../../assets/images/neuroweb.png",
+    "Description (en)": "NeuroWeb AI is a decentralized Artificial Intelligence blockchain designed to incentivise knowledge creation, connectivity and sharing through Knowledge Mining.",
+    "Description (zh)": "",
+    "Parachain Crowdloans Allocation (en)": "https://docs.neuroweb.ai/polkadot/crowdloan",
+    "Parachain Crowdloans Allocation (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://docs.neuroweb.ai/polkadot/crowdloan",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Financing Information (en)": "",
+    "Financing Information (zh)": "",
+    "Website Link": "https://neuroweb.ai/",
+    "Twitter Link": "https://twitter.com/NeuroWebAI",
+    "Telegram Link": "https://t.me/NeuroWebAI",
+    "Discord Link": "",
+    "Medium Link": "https://medium.com/origintrail",
+    "Github Link": "https://github.com/OriginTrail/neuroweb",
+    "Owner account": "1R2HzgNqDctXLhEWthHiun22WnxjJD5jaz85mVjYW2bk1yZ"
+  },
+  "signature": "0x5aa540e9d7ac402bdcbca8662813fcd7c4765c7033d02c4181bd92b5af51e90702226e7316575fc5a03571d0d6a2d1d269e19960f1d85c7e88eda76eb49a5381"
+}
