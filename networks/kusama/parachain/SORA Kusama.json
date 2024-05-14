@@ -1,0 +1,19 @@
+{
+    "data": {
+      "ParaID": 2011,
+      "Project Name": "SORA",
+      "Logo": "../../assets/images/sora_kusama_parachain.svg",
+      "Cover": "",
+      "Description (en)": "SORA is a new economic order for the world, aimed at high growth and empowering human progress. The SORA network includes interoperability with the Polkadot and Kusama networks, as well as the capability to bridge external blockchains (like Ethereum) to the Polkadot ecosystem.",
+      "Description (zh)": "",
+      "Auction Reward & Reward Vesting Schedule (en)": "",
+      "Auction Reward & Reward Vesting Schedule (zh)": "",
+      "Website Link": "https://sora.org",
+      "Twitter Link": "https://twitter.com/sora_xor",
+      "Telegram Link": "https://t.me/sora_xor",
+      "Discord Link": "https://discord.gg/4TXRN6Y4gb",
+      "Medium Link": "https://medium.com/@sora-xor",
+      "Github Link": "https://github.com/sora-xor",
+      "Owner account": "FyLYnuNoMAVkz1VZMMGZFHDPghQQm1916fCon1CqNt2aXbX"
+    }
+}
