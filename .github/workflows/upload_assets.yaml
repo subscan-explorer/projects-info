@@ -1,0 +1,25 @@
+name: Upload Assets
+on:
+  push:
+    branches: ["main"]
+    # paths:
+    #   - 'assets/images/**'
+
+jobs:
+  build-test-deploy:
+    name: Build, Test, Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: 'auth'
+        uses: google-github-actions/auth@v1
+        with:
+          credentials_json: '${{ secrets.GOOGLE_CREDENTIALS }}'
+      - name: Upload Assets
+        uses: google-github-actions/upload-cloud-storage@v1
+        with:
+          path: 'assets/images'
+          destination: '${{ secrets.GCS_PATH }}'
+          predefinedAcl: 'publicRead'
