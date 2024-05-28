@@ -1,1 +1,5 @@
-assets/registry/*
+assets/*
+networks/*
+.github/*
+.parcel-cache/*
+api.json

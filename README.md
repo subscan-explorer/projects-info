@@ -2,6 +2,12 @@
 
 This repo contains info of projects used in [Subscan parachain module](https://rococo.subscan.io/auction_board) based on [@polkadot/apps-config](https://github.com/polkadot-js/apps/tree/master/packages/apps-config).
 
+## Changelog
+
+### 2.2.0
+
+Refactor: use gcp img instead of inline img to reduce package size
+
 ## Notice
 
 - The data will be displayed in Subscan（[EG-1](https://kusama.subscan.io/parachain/2000?tab=project), [EG-2](https://kusama.subscan.io/crowdloan/2012-3?tab=project)）, please be sure to fill in the real information. It is recommended to use the github account of the project member to submit.

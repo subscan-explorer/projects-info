@@ -9,7 +9,7 @@ kusamaJsons.keys().forEach((k) => {
       const imageName = logoPaths[logoPaths.length - 1];
       kusamaParachains[
         c.data.ParaID
-      ].logo = require(`./assets/images/${imageName}`);
+      ].logo = `https://gcs.subscan.io/projects-info/images/${imageName}`;
     } catch {}
   }
 });
@@ -25,7 +25,7 @@ polkadotJsons.keys().forEach((k) => {
       const imageName = logoPaths[logoPaths.length - 1];
       polkadotParachains[
         c.data.ParaID
-      ].logo = require(`./assets/images/${imageName}`);
+      ].logo = `https://gcs.subscan.io/projects-info/images/${imageName}`;
     } catch {}
   }
 });
@@ -41,7 +41,7 @@ rococoJsons.keys().forEach((k) => {
       const imageName = logoPaths[logoPaths.length - 1];
       rococoParachains[
         c.data.ParaID
-      ].logo = require(`./assets/images/${imageName}`);
+      ].logo = `https://gcs.subscan.io/projects-info/images/${imageName}`;
     } catch {}
   }
 });
@@ -57,7 +57,7 @@ westendJsons.keys().forEach((k) => {
       const imageName = logoPaths[logoPaths.length - 1];
       westendParachains[
         c.data.ParaID
-      ].logo = require(`./assets/images/${imageName}`);
+      ].logo = `https://gcs.subscan.io/projects-info/images/${imageName}`;
     } catch {}
   }
 });
