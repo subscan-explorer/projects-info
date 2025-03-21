@@ -1,0 +1,20 @@
+{
+    "data": {
+      "ParaID": 2019,
+      "Project Name": "Composable",
+      "SS58 Prefix": "49",
+      "Logo": "../../assets/images/composable.png",
+      "Cover": "",
+      "Description (en)": "Composable Finance is dedicated to improving the accessibility, quality, transparency, efficiency, and security of decentralized finance (DeFi): Any Money, Any Chain, Anywhere.",
+      "Description (zh)": "可组合金融致力于提高去中心化金融（DeFi）的可访问性、质量、透明度、效率和安全性：任何货币、任何链、任何地方。",
+      "Auction Reward & Reward Vesting Schedule (en)": "https://docs.composable.finance/networks/composable/composable-crowdloan",
+      "Auction Reward & Reward Vesting Schedule (zh)": "https://docs.composable.finance/networks/composable/composable-crowdloan",
+      "Website Link": "https://www.composable.finance/",
+      "Twitter Link": "https://twitter.com/ComposableFin",
+      "Telegram Link": "https://t.me/composable_chat",
+      "Discord Link": "https://discord.com/invite/composable",
+      "Medium Link": "https://composablefi.medium.com/",
+      "Github Link": "https://github.com/ComposableFi/composable",
+      "Owner account": "12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ"
+    }
+}
