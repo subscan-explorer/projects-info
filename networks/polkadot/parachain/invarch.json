@@ -1,0 +1,21 @@
+{
+  "data": {
+    "ParaID": 3340,
+    "Project Name": "InvArch",
+    "SS58 Prefix": "117",
+    "Logo": "../../assets/images/invarch.svg",
+    "Cover": "",
+    "Description (en)": "InvArch is a decentralized public infrastructure highly-optimized for powering DAOs & empowering AI Agent Swarms. Contracts can define custom logic and mechanics for DAO operations and power new, permission less applications launched on InvArch.",
+    "Description (zh)": "InvArch 是一个去中心化的公共基础设施，专为高效支持 DAO 并赋能 AI 智能体集群而优化。合约可以定义 DAO 运作的自定义逻辑和机制，并支持在 InvArch 上启动全新的、无需许可的应用程序。",
+    "Auction Reward & Reward Vesting Schedule (en)": "https://invarch.medium.com/the-invarch-network-crowdloan-on-polkadot-is-back-again-9168c165000b",
+    "Auction Reward & Reward Vesting Schedule (zh)": "https://invarch.medium.com/the-invarch-network-crowdloan-on-polkadot-is-back-again-9168c165000b",
+    "Website Link": "https://invarch.network/",
+    "Twitter Link": "https://x.com/InvArchNetwork",
+    "Telegram Link": "",
+    "Discord Link": "https://discord.com/invarch-876974985984487484",
+    "Medium Link": "https://invarch.medium.com/",
+    "Github Link": "https://github.com/AbstractedCo",
+    "Owner account": "i52rHjTpyEPda2cpmrxPkmuBu5JM2i1QMWZTSHBcRPb3g7BMn"
+  },
+  "signature": "0x349ed147575b6bd5df6f5c4b853c04bc1fa8ff09e1cf5b29fd2541a41ef5033d3ba001c72d742d57e06148c49ea862694c90ce2af34f46ee976f0cccd558518d"
+}
