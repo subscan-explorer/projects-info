@@ -1,24 +1,22 @@
 {
     "data": {
-      "ParaID": "2093",
-      "Project Name": "Hashed Network",
-      "Logo": "../../assets/images/hashed.png",
-      "Description (en)": "web3 for business; business for web3 | orchestration & workflow for BTC & USD treasuries, fund administration, & compliance-ready markets; powered by Substrate",
-      "Description (zh)": "",
-      "Parachain Crowdloans Allocation (en)": "",
-      "Parachain Crowdloans Allocation (zh)": "",
-      "Auction Reward & Reward Vesting Schedule (en)": "",
-      "Auction Reward & Reward Vesting Schedule (zh)": "",
-      "Financing Information (en)": "",
-      "Financing Information (zh)": "",
-      "Website Link": "https:/hashed.network/",
-      "Twitter Link": "https://twitter.com/HashedNetwork",
-      "Telegram Link": "",
-      "Discord Link": "",
-      "Medium Link": "",
-      "Github Link": "https://github.com/hashed-io/",
-      "Owner account": "13xTyGGzQofHURGRxw9L6bx19C974BDy5eq8nSdJM9vNCy6j"
-    },
-    "signature": "0x5cb94dca69ce3c79ed81a7e3ea37619901ae90fbf3d2b1bfaa254a596ec9b11efd346be6d8464d136e564de8b40760bf82f608cf5c0dc8c30c4d32885166d78a"
-  }
-  
+        "ParaID": "2093",
+        "Project Name": "Hashed Network",
+        "Logo": "../../assets/images/hashed.png",
+        "Description (en)": "web3 for business; business for web3 | orchestration & workflow for BTC & USD treasuries, fund administration, & compliance-ready markets; powered by Substrate",
+        "Description (zh)": "",
+        "Parachain Crowdloans Allocation (en)": "6% of supply for crowdloan of 125,000 DOT, or 1 DOT = 480 HASH",
+        "Parachain Crowdloans Allocation (zh)": "",
+        "Auction Reward & Reward Vesting Schedule (en)": "1 DOT = 480 HASH, vesting linearly over lease",
+        "Auction Reward & Reward Vesting Schedule (zh)": "",
+        "Financing Information (en)": "",
+        "Financing Information (zh)": "",
+        "Website Link": "https:/hashed.network/",
+        "Twitter Link": "https://twitter.com/HashedNetwork",
+        "Telegram Link": "",
+        "Discord Link": "",
+        "Medium Link": "",
+        "Github Link": "https://github.com/hashed-io/",
+        "Owner account": "13xTyGGzQofHURGRxw9L6bx19C974BDy5eq8nSdJM9vNCy6j"
+    }
+}
