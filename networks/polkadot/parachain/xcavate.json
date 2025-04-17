@@ -1,0 +1,21 @@
+{
+  "data": {
+    "ParaID": 3413,
+    "Project Name": "Xcavate",
+    "SS58 Prefix": "0",
+    "Logo": "../../assets/images/myxcav.png",
+    "Cover": "",
+    "Description (en)": "The Xcavate Protocol addresses the need to make the digitisation of real estate simple, more secure, more efficient and open opportunities to a broader range of people",
+    "Description (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Website Link": "https://xcavate.io/",
+    "Twitter Link": "https://x.com/xcavateofficial",
+    "Telegram Link": "https://t.me/xcavatei0",
+    "Discord Link": "https://discord.gg/hNFPxHv5",
+    "Medium Link": "",
+    "Github Link": "https://github.com/XcavateBlockchain",
+    "Owner account": "1HwQbUpcr99UA6W7WBK86RtMHJTBWRazpxuYfRHyhSCbE1j"
+  },
+  "signature": "0x34482b1470e8144f76fd8dcd372764add6858cbf5a3c7e4ce78a148b07ef0c7ec4ce9e38e07fe408fd7bbffb6c3b11d7457eb58123c833596e181203ded8c785"
+}
